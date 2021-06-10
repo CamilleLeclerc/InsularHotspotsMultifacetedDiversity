@@ -9,7 +9,7 @@
 # Content
 This repository is structured as follow:  
 📁 data/: contains all data required to reproduce analyses and figures  
-📁 R/: contains R functions developed especially for this project  
+📁 analysis/: contains R codes to run analysis for this project  
 *to complete*
 
 ---
