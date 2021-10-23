@@ -1,0 +1,1800 @@
+"ULM_ID" "REGION" "COUNTRYISO" "COUNTRY" "ARCHIP" "ISLAND" "LONG" "LAT" "Area"
+0 "Caribbean Islands" "DOMHT" "Dominican Republic; Haiti" "West Indies" "Hispaniola" -71.262798 18.911325 74044.06
+8623 "Polynesia-Micronesia" "COK" "Cook Islands" "Cook Islands" "Mangaia" -157.91943 -21.928127 48.54
+8652 "Polynesia-Micronesia" "TON" "Tonga" "Tonga Islands" "`Eua Island" -174.932571 -21.375878 92.62
+8654 "Polynesia-Micronesia" "COK" "Cook Islands" "Cook Islands" "Rarotonga" -159.777546 -21.234623 69.11
+8669 "Polynesia-Micronesia" "TON" "Tonga" "Tonga Islands" "Tongatapu Island" -175.191861 -21.174082 275.75
+8749 "Polynesia-Micronesia" "TON" "Tonga" "Tonga Islands" "Tofua Island" -175.067077 -19.749019 55.39
+8789 "Polynesia-Micronesia" "NIU" "Niue" "Niue" "Niue Island" -169.858549 -19.052414 266.67
+8800 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Totoya Island" -179.839717 -18.951348 32.58
+8866 "Polynesia-Micronesia" "TON" "Tonga" "Tonga Islands" "Ofu Island" -173.95809 -18.700717 1.64
+8891 "Polynesia-Micronesia" "TON" "Tonga" "Tonga Islands" "Vava`u Island" -173.983608 -18.626123 116.27
+8937 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Lakemba Island" -178.789865 -18.211093 62.11
+8981 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Nayau Island" -179.052408 -17.978322 19.34
+9006 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Thithia Island" -179.311637 -17.748381 35.52
+9037 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Vatu Vara" -179.531263 -17.430138 4.29
+9088 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Vanua Mbalavu Island" -178.972821 -17.229911 58.19
+9640 "Polynesia-Micronesia" "WLF" "Wallis and Futuna" "Wallis and Futuna" "Ile Alofi" -178.041642 -14.340826 20.66
+9641 "Polynesia-Micronesia" "ASM" "American Samoa" "Samoa Islands" "Aunuu Island" -170.553464 -14.284039 1.74
+9643 "Polynesia-Micronesia" "WLF" "Wallis and Futuna" "Wallis and Futuna" "Ile Futuna" -178.13326 -14.285595 52.96
+9644 "Polynesia-Micronesia" "ASM" "American Samoa" "Samoa Islands" "Tutuila Island" -170.717618 -14.300334 142.88
+9645 "Polynesia-Micronesia" "ASM" "American Samoa" "Samoa Islands" "Ta`u Island" -169.468214 -14.242045 59.62
+9654 "Polynesia-Micronesia" "ASM" "American Samoa" "Samoa Islands" "Ofu Island" -169.663731 -14.172184 7.73
+9655 "Polynesia-Micronesia" "ASM" "American Samoa" "Samoa Islands" "Olosega Island" -169.620375 -14.178551 7.27
+9665 "Polynesia-Micronesia" "WSM" "Samoa" "Samoa Islands" "Upolu" -171.758135 -13.930677 1133.94
+9666 "Polynesia-Micronesia" "WSM" "Samoa" "Samoa Islands" "Savai'i" -172.447361 -13.62086 1713.15
+9686 "Polynesia-Micronesia" "WLF" "Wallis and Futuna" "Wallis and Futuna" NA -176.20458 -13.285427 77.44
+9902 "Mesoamerica and Galapagos Islands" "ECU" "Ecuador" "Galapagos Islands" "Isla Santa Fe" -90.058774 -0.818429 25.15
+9906 "Mesoamerica and Galapagos Islands" "ECU" "Ecuador" "Galapagos Islands" "Isla San Cristobal" -89.43056 -0.826798 559.98
+9960 "Mesoamerica and Galapagos Islands" "ECU" "Ecuador" "Galapagos Islands" "Isla Fernandina" -91.512937 -0.385734 649.11
+9970 "Mesoamerica and Galapagos Islands" "ECU" "Ecuador" "Galapagos Islands" "Isla San Salvador" -90.712546 -0.266245 577.1
+10218 "Mesoamerica and Galapagos Islands" "PAN" "Panama" NA "Isla de Coiba" -81.75732 7.470821 503.65
+10509 "Mesoamerica and Galapagos Islands" "PAN" "Panama" NA "Isla Escudo de Veraguas" -81.558276 9.097581 5.1
+10863 "Caribbean Islands" "TTO" "Trinidad and Tobago" "West Indies" "Trinidad" -61.296447 10.423904 4835.68
+10912 "Caribbean Islands" "VEN" "Venezuela" "West Indies" "Isla de Margarita" -64.050493 11.001151 947.12
+10928 "Caribbean Islands" "TTO" "Trinidad and Tobago" "West Indies" "Tobago" -60.666351 11.241491 308.31
+11050 "Caribbean Islands" "GRD" "Grenada" "West Indies" "Grenada" -61.683776 12.113748 316.62
+11107 "Caribbean Islands" "ABW" "Aruba" "West Indies" "Aruba" -69.970276 12.509315 181.94
+11169 "Caribbean Islands" "BRB" "Barbados" "West Indies" "Barbados" -59.55639 13.172262 434.64
+11176 "Caribbean Islands" "VCT" "Saint Vincent and the Grenadines" "West Indies" "Saint Vincent" -61.188975 13.251309 348.62
+11193 "Caribbean Islands" "LCA" "Saint Lucia" "West Indies" "Saint Lucia Island" -60.966774 13.898433 614.17
+11221 "Caribbean Islands" "MTQ" "Martinique" "West Indies" "Martinique" -61.018115 14.652747 1114.86
+11229 "Caribbean Islands" "DMA" "Dominica" "West Indies" "Dominica" -61.349988 15.434552 754.21
+11264 "Caribbean Islands" "GLP" "Guadeloupe" "West Indies" "Marie-Galante" -61.268569 15.932114 159.86
+11363 "Mesoamerica and Galapagos Islands" "HND" "Honduras" NA "Isla Santa Elena" -86.434535 16.366497 123.91
+11384 "Caribbean Islands" "GLP" "Guadeloupe" "West Indies" "Ilet a Petrelluzzi" -61.575939 16.228266 1450.49
+11431 "Caribbean Islands" "MSR" "Montserrat" "West Indies" "Montserrat" -62.189685 16.739452 100.65
+11466 "Caribbean Islands" "ATG" "Antigua and Barbuda" "West Indies" "Antigua Island" -61.798388 17.077293 280.17
+11471 "Caribbean Islands" "KNA" "Saint Kitts and Nevis" "West Indies" "Nevis" -62.58646 17.150396 95.36
+11519 "Caribbean Islands" "KNA" "Saint Kitts and Nevis" "West Indies" "Saint Christopher" -62.765059 17.339227 171.76
+11541 "Caribbean Islands" "ANT" "Netherlands Antilles" "West Indies" "Sint Eustatius" -62.976283 17.490842 23.44
+11571 "Caribbean Islands" "ATG" "Antigua and Barbuda" "West Indies" NA -61.868177 17.690628 6.23
+11573 "Caribbean Islands" "ATG" "Antigua and Barbuda" "West Indies" "Barbuda" -61.793378 17.631531 144.41
+11575 "Caribbean Islands" "VIR" "Virgin Islands; U.S." "West Indies" "Saint Croix" -64.768456 17.73286 219.68
+11590 "Caribbean Islands" "JAM" "Jamaica" "West Indies" "Great Goat Island" -77.059674 17.876887 5.27
+11652 "Caribbean Islands" "PRI" "Puerto Rico" "West Indies" "Isla de Mona" -67.892539 18.089245 57.67
+11653 "Caribbean Islands" "ANTGL" "Netherlands Antilles; Guadeloupe" "West Indies" "Ile Saint-Martin" -63.062734 18.061742 92.14
+11661 "Caribbean Islands" "PRI" "Puerto Rico" "West Indies" "Isla de Vieques" -65.441002 18.123319 136.71
+11682 "Caribbean Islands" "AIA" "Anguilla" "West Indies" "Anguilla" -63.054398 18.214736 74.93
+11733 "Caribbean Islands" "VIR" "Virgin Islands; U.S." "West Indies" "Saint John" -64.736758 18.338353 52.07
+11742 "Caribbean Islands" "VIR" "Virgin Islands; U.S." "West Indies" "Saint Thomas" -64.928694 18.343528 76.21
+11779 "Caribbean Islands" "VGB" "British Virgin Islands" "West Indies" "Little Wickham's Cay" -64.620064 18.424074 65.17
+11790 "Caribbean Islands" "VGB" "British Virgin Islands" "West Indies" "Virgin Gorda" -64.399216 18.475855 23.9
+11797 "Caribbean Islands" "PRI" "Puerto Rico" "West Indies" "Island of Puerto Rico" -66.479512 18.224245 8728.54
+11801 "Caribbean Islands" "JAM" "Jamaica" "West Indies" "Jamaica" -77.310484 18.157071 10992.98
+11857 "Caribbean Islands" "HTI" "Haiti" "West Indies" "Ile de la Gonave" -73.046362 18.842899 686.55
+11898 "Caribbean Islands" "CYM" "Cayman Islands" "West Indies" "Grand Cayman" -81.243946 19.318442 202.62
+12004 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -77.064699 20.540798 3.07
+12006 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -77.066742 20.55201 1.09
+12009 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Media Luna" -77.885729 20.569743 2.72
+12014 "Mesoamerica and Galapagos Islands" "MEX" "Mexico" "Yucatan Islands" "Isla Cozumel" -86.902482 20.442404 478.55
+12054 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Campo Santo" -78.513901 20.619717 7.36
+12058 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Caguamas" -78.38353 20.573458 28.46
+12063 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.093422 20.624946 2.2
+12080 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.381033 20.647592 3.68
+12086 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Carabinero" -78.637265 20.653608 15.68
+12100 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.095802 20.658448 1.5
+12112 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.396982 20.669344 1.92
+12119 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.098368 20.67783 1.18
+12124 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.364228 20.677177 1.08
+12134 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.383539 20.683489 1.9
+12149 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Cachiboca" -78.740342 20.685539 4.83
+12154 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.5348 20.704188 1.28
+12172 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.577717 20.711266 1.35
+12173 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.493478 20.704832 4.92
+12185 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.425011 20.724645 2.82
+12186 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Cotorro" -78.464984 20.722761 1.85
+12195 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.369815 20.730853 2.42
+12200 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Piedra Chica" -78.784047 20.728234 11.07
+12204 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.250288 20.745756 1.05
+12217 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.251216 20.757902 1.1
+12221 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.236521 20.762179 2.78
+12223 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.829742 20.763825 1.92
+12224 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.646212 20.75335 5.77
+12225 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.497671 20.756708 2.07
+12232 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.203574 20.764679 3.69
+12236 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.850087 20.772625 2.57
+12252 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.234702 20.791841 2.4
+12260 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.898921 20.795845 16.94
+12261 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Chocolate" -78.630506 20.8302 4.17
+12277 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Grande" -79.086302 20.91764 72.24
+12285 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.296203 21.043366 1.67
+12294 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.33647 21.059242 1.21
+12299 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Algodon Grande" -78.722446 21.100073 4.23
+12300 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.331599 21.090929 27.45
+12301 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Breton" -79.421436 21.112747 8.62
+12316 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Puerco" -76.52192 21.230055 1.16
+12333 "Mesoamerica and Galapagos Islands" "MEX" "Mexico" NA "Isla Maria Cleofas" -106.248834 21.314174 19.98
+12334 "Caribbean Islands" "BHS" "Bahamas" "West Indies" "Great Inagua Island" -73.349683 21.078338 1546.08
+12358 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Tio Joaquin" -78.765894 21.419274 2.98
+12360 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -76.962223 21.443093 1.3
+12362 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Balandras" -78.785037 21.450519 1.78
+12373 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Guasimas" -78.827565 21.472957 1.65
+12382 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.765319 21.480149 1.86
+12383 "Mesoamerica and Galapagos Islands" "MEX" "Mexico" NA "Isla Maria Magdalena" -106.424656 21.461566 69.87
+12417 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Avalos" -82.171365 21.551592 1.59
+12429 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Hicacos" -82.362801 21.564458 3.28
+12434 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Matias" -82.43919 21.56532 7.55
+12438 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -82.252661 21.578471 2.44
+12443 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Campos" -82.300593 21.576545 10.51
+12444 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -82.21595 21.580098 3.93
+12462 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -81.692007 21.624174 1.58
+12476 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -81.600636 21.629817 2.86
+12479 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -81.660529 21.630143 1.93
+12486 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Cantiles" -82.044192 21.60372 43.57
+12491 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Coco" -82.385944 21.615401 12.91
+12496 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Campo" -81.801158 21.649062 3.17
+12499 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo del Rosario" -81.890174 21.635261 21.9
+12518 "Mesoamerica and Galapagos Islands" "MEX" "Mexico" NA "Isla Maria Madre" -106.581687 21.627684 143.8
+12520 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo del Pasaje" -81.947566 21.689042 2.95
+12526 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Largo" -81.484967 21.634773 48.14
+12528 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Divisa" -81.845295 21.693903 2.02
+12531 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -82.515411 21.700296 2.48
+12538 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Boca de Alonso" -82.462696 21.693114 13.83
+12543 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Tablones" -82.07812 21.720635 2.71
+12552 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo San Juan" -82.547179 21.729181 10.01
+12561 "Mesoamerica and Galapagos Islands" "MEX" "Mexico" NA "Isla San Juanito" -106.67464 21.749952 9.18
+12564 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Loquera" -77.450671 21.78564 2.08
+12565 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -82.604633 21.78521 2.51
+12571 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Guayabo" -82.602304 21.812313 1.15
+12586 "Caribbean Islands" "TCA" "Turks and Caicos Islands" "West Indies" "Middle Caicos" -71.758108 21.775209 301.43
+12610 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Cucubao" -77.73833 21.891602 4.49
+12616 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Guajaba" -77.534988 21.853075 109.07
+12620 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -77.645714 21.921802 1.57
+12621 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -82.614536 21.8967 7.09
+12623 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Montanes" -77.583427 21.93086 1.55
+12624 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -77.770969 21.928457 1.68
+12628 "Caribbean Islands" "TCA" "Turks and Caicos Islands" "West Indies" NA -71.914523 21.931347 1.55
+12632 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Isla de la Juventud" -82.840207 21.676128 2213.72
+12640 "Caribbean Islands" "TCA" "Turks and Caicos Islands" "West Indies" "North Caicos Island" -71.962885 21.880341 213.05
+12661 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Juan Garcia" -83.591807 21.967316 10.27
+12662 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Grande" -82.655878 21.97379 7.5
+12804 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.179488 22.140118 1.26
+12844 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.074332 22.200042 1.41
+12873 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Judas" -78.323046 22.24681 10.51
+12881 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -77.931739 22.255613 9.65
+12936 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Megano Grande" -77.916625 22.330093 8.6
+12951 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Anton Grande" -78.054496 22.380727 1.85
+12968 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.263658 22.397556 1.91
+12988 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Salinas" -79.236676 22.428875 1.79
+13006 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.580099 22.451179 1.07
+13010 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Lucas" -79.277146 22.450383 5.48
+13016 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.604425 22.453568 1.08
+13022 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Aguado" -79.322324 22.460493 2.57
+13027 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Paredon Grande" -78.17658 22.452793 15.73
+13072 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.159818 22.539437 5.02
+13074 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.749134 22.533166 8.8
+13078 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -78.825262 22.541917 2.21
+13088 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -84.226165 22.555333 1.34
+13117 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.241835 22.586287 4.15
+13134 "Caribbean Islands" "BHS" "Bahamas" "West Indies" NA -73.508925 22.604649 7.02
+13142 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.077465 22.584657 2.47
+13151 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Martin" -78.906103 22.522014 46
+13161 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.052561 22.636554 1.23
+13163 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Frances" -79.201011 22.635884 6.5
+13164 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.128914 22.638261 1.01
+13172 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.474517 22.643549 1.74
+13185 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.425893 22.634414 18.1
+13193 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.513174 22.661303 5.08
+13210 "Caribbean Islands" "BHS" "Bahamas" "West Indies" "Acklins Island" -74.010021 22.469664 460.12
+13212 "Caribbean Islands" "BHS" "Bahamas" "West Indies" NA -73.879489 22.715572 2.46
+13214 "Caribbean Islands" "BHS" "Bahamas" "West Indies" NA -73.860107 22.718137 6.61
+13223 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.625978 22.778233 1.02
+13230 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Fragoso" -79.477052 22.715426 85.05
+13235 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Medio" -79.660182 22.810992 1.76
+13241 "Caribbean Islands" "BHS" "Bahamas" "West Indies" "Crooked Island" -74.201491 22.740112 268.44
+13246 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.679151 22.843514 8.24
+13253 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.704724 22.868337 6.14
+13255 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.729971 22.876191 4.26
+13267 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.716778 22.893015 2.89
+13270 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Alacranes" -83.452447 22.901416 4.49
+13272 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.945688 22.900673 2.33
+13282 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Lanzanillo" -79.796317 22.933694 1.82
+13293 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.863753 22.950459 2.84
+13295 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Chubasco" -79.910179 22.942765 24.85
+13296 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Hachuela" -79.954215 22.959483 3.06
+13298 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.851953 22.963768 1.76
+13300 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -79.829311 22.953171 6.22
+13301 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Bombam" -80.130392 22.970465 1.14
+13309 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Mariposa" -79.96098 22.976112 3.32
+13323 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo de la Cruz" -79.991554 22.995669 2.84
+13343 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Rancho del Cojo" -80.098177 23.00791 9.13
+13349 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.125327 23.022479 1.37
+13360 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Cuadrado" -80.180634 22.997971 17.72
+13369 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Iguana" -80.013848 23.02288 12.36
+13373 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.234026 23.045847 1.26
+13389 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.555167 23.058185 1.36
+13393 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.586299 23.068131 1.01
+13394 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Esquivel del Sur" -80.070487 23.04923 11.58
+13403 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Mahomito" -80.236614 23.076684 2.07
+13409 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.131408 23.089318 1.18
+13430 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Cera" -80.373663 23.108771 1.07
+13438 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Sotavento" -80.181418 23.075122 41.26
+13440 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.553559 23.110974 2.08
+13444 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Rioja" -80.712247 23.110531 3.27
+13445 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Cuaba" -80.252278 23.104219 7.64
+13455 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Llanes" -80.280318 23.119975 3.83
+13459 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.318407 23.125907 5
+13465 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.576999 23.132024 1.55
+13467 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.239586 23.125726 2.47
+13476 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.27994 23.138169 1.74
+13483 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Basura" -80.405267 23.143793 12.49
+13501 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Portillo" -80.76313 23.161276 2.58
+13533 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Machos" -80.986444 23.180883 1.82
+13534 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.867231 23.141729 44.07
+13547 "Caribbean Islands" "BHS" "Bahamas" "West Indies" NA -75.150816 23.18313 3.5
+13557 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.737031 23.188264 1.2
+13562 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.634887 23.192614 1.02
+13567 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cuba" -78.935884 21.617345 106901.26
+13568 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.721036 23.198798 1.43
+13571 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.693457 23.196213 2.49
+13572 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.753004 23.197903 2.86
+13579 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.669315 23.207394 1.26
+13582 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Cabezos" -80.543639 23.188005 28.98
+13583 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -81.027431 23.210739 2.24
+13584 "Caribbean Islands" "CUB" "Cuba" "West Indies" NA -80.811294 23.209646 8.63
+13594 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Blanco" -81.002092 23.238676 4.34
+13599 "Caribbean Islands" "CUB" "Cuba" "West Indies" "Cayo Cruz del Padre" -80.905168 23.245998 28.12
+13705 "Caribbean Islands" "BHS" "Bahamas" "West Indies" "Madam Dau's Cay" -76.037292 23.670019 2.28
+13712 "Caribbean Islands" "BHS" "Bahamas" "West Indies" "Long Island" -75.07459 23.22273 462.86
+13724 "Caribbean Islands" "BHS" "Bahamas" "West Indies" "Great Exuma Island" -75.849478 23.550259 237.75
+13751 "Caribbean Islands" "BHS" "Bahamas" "West Indies" "Baraterre" -76.053066 23.684208 15.09
+13920 "Caribbean Islands" "BHS" "Bahamas" "West Indies" "San Salvador Island" -74.493069 24.036976 154.54
+14110 "California Islands" "MEX" "Mexico" "Gulf of California Islands" "Isla del Espiritu Santo" -110.342728 24.473187 85.8
+14149 "California Islands" "MEX" "Mexico" "Gulf of California Islands" "Isla Partida" -110.386154 24.559953 18.5
+14268 "Caribbean Islands" "BHS" "Bahamas" "West Indies" "Fernandez Cay" -75.491612 24.349941 359.42
+14640 "Caribbean Islands" "BHS" "Bahamas" "West Indies" "New Providence Island" -77.404185 25.031495 217.51
+14731 "Caribbean Islands" "BHS" "Bahamas" "West Indies" "Pumpion Cay" -78.05976 24.68949 3766.08
+15017 "Caribbean Islands" "BHS" "Bahamas" "West Indies" "Cupids Cay" -76.357814 25.095018 456.26
+15280 "Caribbean Islands" "BHS" "Bahamas" "West Indies" NA -77.238869 26.370192 12.99
+15844 "Caribbean Islands" "BHS" "Bahamas" "West Indies" "Abaco Island" -77.235547 26.359488 1215.11
+15961 "California Islands" "MEX" "Mexico" "Gulf of California Islands" "Isla Tortuga" -111.880296 27.441629 11.42
+16306 "California Islands" "MEX" "Mexico" "Gulf of California Islands" "Isla San Lorenzo" -112.818716 28.629613 32.98
+16321 "California Islands" "MEX" "Mexico" "Gulf of California Islands" "Isla las Animas" -112.914943 28.695611 4.3
+16339 "California Islands" "MEX" "Mexico" "Gulf of California Islands" "Isla San Esteban" -112.577719 28.701964 40.57
+16341 "California Islands" "MEX" "Mexico" "Gulf of California Islands" "Isla Salsipuedes" -112.956152 28.727266 1.24
+18235 "Mediterranean Basin" "ESP" "Spain" "Canary Islands" "El Hierro" -18.006624 27.746526 273.52
+18241 "Mediterranean Basin" "ESP" "Spain" "Canary Islands" "La Gomera" -17.232609 28.117411 372.21
+18243 "Mediterranean Basin" "ESP" "Spain" "Canary Islands" "Isla de Tenerife" -16.55631 28.291062 2040.14
+18245 "Mediterranean Basin" "ESP" "Spain" "Canary Islands" "Isla de Fuerteventura" -14.036486 28.406106 1669.88
+18246 "Mediterranean Basin" "ESP" "Spain" "Canary Islands" "Lobos" -13.821679 28.750013 5.39
+18247 "Mediterranean Basin" "ESP" "Spain" "Canary Islands" "Isla de La Palma" -17.858329 28.68988 716.46
+18249 "Mediterranean Basin" "ESP" "Spain" "Canary Islands" "Isla de Lanzarote" -13.641825 29.024478 818.57
+18251 "Mediterranean Basin" "ESP" "Spain" "Canary Islands" "Isla Graciosa" -13.509177 29.252305 29.2
+18252 "Mediterranean Basin" "ESP" "Spain" "Canary Islands" "Isla de Montana Clara" -13.535135 29.2977 1.72
+18255 "Mediterranean Basin" "ESP" "Spain" "Canary Islands" "Isla de Alegranza" -13.51139 29.399411 11.22
+18614 "Mediterranean Basin" "PRT" "Portugal" "Madeira Archipelago" "Ilha da Madeira" -16.99913 32.746337 740.94
+18726 "Mediterranean Basin" "PRT" "Portugal" "Madeira Archipelago" "Ilha de Porto Santo" -16.342174 33.06918 40.33
+18774 "Mediterranean Basin" "PRT" "Portugal" "Azores" "Ilha de Santa Maria" -25.099823 36.971334 96.89
+19038 "Mediterranean Basin" "PRT" "Portugal" "Azores" "Ilha de Sao Miguel" -25.481891 37.7954 744.72
+19100 "Mediterranean Basin" "PRT" "Portugal" "Azores" "Ilha do Pico" -28.333573 38.469473 444.97
+19103 "Mediterranean Basin" "PRT" "Portugal" "Azores" "Ilha do Faial" -28.701332 38.578217 173.09
+19139 "Mediterranean Basin" "PRT" "Portugal" "Azores" "Ilha de Sao Jorge" -28.029236 38.637234 243.78
+19146 "Mediterranean Basin" "PRT" "Portugal" "Azores" "Ilha Terceira" -27.2123 38.723901 400.56
+19152 "Mediterranean Basin" "PRT" "Portugal" "Azores" "Ilha Graciosa" -28.011327 39.052294 60.69
+19393 "California Islands" "USA" "United States" "California Channel Islands" "San Clemente Island" -118.485664 32.900453 150.29
+19401 "California Islands" "USA" "United States" "California Channel Islands" "San Nicolas Island" -119.506997 33.247926 59.02
+19407 "California Islands" "USA" "United States" "California Channel Islands" "Santa Catalina Island" -118.433561 33.382213 197.07
+19435 "California Islands" "USA" "United States" "California Channel Islands" "Santa Rosa Island" -120.105655 33.966694 217.89
+19440 "California Islands" "USA" "United States" "California Channel Islands" "San Miguel Island" -120.37358 34.038405 39.74
+19443 "California Islands" "USA" "United States" "California Channel Islands" "White Rock" -119.745423 34.014027 254.7
+22768 "Bering and East Siberian Sea Islands" "USA" "United States" "Aleutian Islands" "Umnak Island" -168.358085 53.267242 1789.46
+22969 "Bering and East Siberian Sea Islands" "USA" "United States" "Aleutian Islands" NA -166.384804 53.980609 12.29
+22972 "Bering and East Siberian Sea Islands" "USA" "United States" "Aleutian Islands" "Unalaska Island" -166.894851 53.666354 2753.07
+25028 "Bering and East Siberian Sea Islands" "USA" "United States" "Bering Sea Islands" "Kamenisti" -170.266853 57.180684 129.83
+26000 "Bering and East Siberian Sea Islands" "USA" "United States" "Bering Sea Islands" "Saint Matthew Island" -172.705741 60.421308 311.84
+26005 "Bering and East Siberian Sea Islands" "USA" "United States" "Bering Sea Islands" "Hall Island" -173.072143 60.656972 17.28
+26053 "Bering and East Siberian Sea Islands" "USA" "United States" "Bering Sea Islands" "Saint Lawrence Island" -170.342552 63.388598 4929.4
+27065 "Bering and East Siberian Sea Islands" "RUS" "Russia" "East Siberian Sea Islands" NA -178.529124 71.556173 9.95
+27066 "Bering and East Siberian Sea Islands" "RUS" "Russia" "East Siberian Sea Islands" "Ostrov Vrangelya" -179.189337 71.26339 7764.33
+27068 "Bering and East Siberian Sea Islands" "RUS" "Russia" "East Siberian Sea Islands" NA -179.274668 71.594345 5.67
+27069 "Bering and East Siberian Sea Islands" "RUS" "Russia" "East Siberian Sea Islands" NA -178.978899 71.594404 4.75
+27070 "Bering and East Siberian Sea Islands" "RUS" "Russia" "East Siberian Sea Islands" NA -179.251637 71.606937 4.17
+38675 "California Islands" "MEX" "Mexico" "Gulf of California Islands" "Isla San Jose" -110.621904 24.980577 183.71
+38678 "California Islands" "MEX" "Mexico" "Gulf of California Islands" "Isla Santa Cruz" -110.715872 25.285308 13.55
+38681 "California Islands" "MEX" "Mexico" "Gulf of California Islands" "Isla Santa Catalina" -110.779583 25.650896 40.39
+38682 "California Islands" "MEX" "Mexico" "Gulf of California Islands" "Isla Monserrat" -111.035107 25.683273 18.98
+38992 "Japan" "RUS" "Russia" "Kurile Islands" "Shibotsu-jima" 146.136127 43.50796 58.61
+39005 "Japan" "JPN" "Japan" "Japan" "Nishono-shima" 145.310808 43.578388 9.43
+39178 "Japan" "RUS" "Russia" "Kurile Islands" "Shikotan-to" 146.738907 43.800861 250.32
+39315 "Japan" "RUS" "Russia" "Kurile Islands" "Kunashiri-to" 145.94709 44.173277 1488.29
+39439 "Japan" "JPN" "Japan" "Japan" "Rishiri-to" 141.229708 45.177708 182.69
+39504 "Japan" "JPN" "Japan" "Japan" "Rebun-to" 141.025188 45.375472 82.66
+39926 "Japan" "RUS" "Russia" "Shakhalin" NA 143.353801 49.299709 2.7
+39931 "Japan" "RUS" "Russia" "Shakhalin" "Ostrov Litvinova" 143.540165 49.317196 8.83
+40028 "Japan" "RUS" "Russia" "Kurile Islands" "Ostrov Paramushir" 155.722645 50.372947 2035.1
+40125 "Japan" "RUS" "Russia" "Shakhalin" NA 143.274672 51.66563 1.12
+40142 "Japan" "RUS" "Russia" "Shakhalin" NA 143.354868 51.664557 9.49
+40221 "Japan" "RUS" "Russia" "Shakhalin" NA 143.157665 52.024319 8.07
+40225 "Japan" "RUS" "Russia" "Shakhalin" NA 143.122254 52.096783 2.31
+40233 "Japan" "RUS" "Russia" "Shakhalin" "Ostrov Lyarvo" 143.115277 52.133653 1.67
+40257 "Japan" "RUS" "Russia" "Shakhalin" "Ostrov Soniga" 143.220199 52.441309 8.91
+40270 "Japan" "RUS" "Russia" "Shakhalin" "Ostrov Irkimibu" 143.263914 52.569728 3.38
+40702 "Japan" "RUS" "Russia" "Shakhalin" "Ostrov Sakhalin" 142.702744 50.334829 74084.54
+50686 "Bering and East Siberian Sea Islands" "RUS" "Russia" "East Siberian Sea Islands" NA 179.893841 71.522919 3.28
+52190 "Mediterranean Basin" "GRC" "Greece" NA NA 25.74723 35.274016 6.68
+52223 "Mediterranean Basin" "GRC" "Greece" NA "Nisos Kriti" 24.844308 35.230793 8289.81
+52245 "Mediterranean Basin" "MLT" "Malta" "Maltese Archipelago" "Malta" 14.439966 35.888256 252.82
+52252 "Mediterranean Basin" "MLT" "Malta" "Maltese Archipelago" "Ghawdex" 14.252121 36.04701 68.87
+52789 "Mediterranean Basin" "ITA" "Italy" "Siciliy" "Isola San Pantaleo" 12.44646 37.857279 1.2
+52794 "Mediterranean Basin" "ITA" "Italy" "Siciliy" "Isola Grande" 12.441893 37.882285 2.44
+52805 "Mediterranean Basin" "ITA" "Italy" "Siciliy" "Isola Favignana" 12.318978 37.927938 21.17
+52815 "Mediterranean Basin" "ITA" "Italy" "Siciliy" "Isola Marettimo" 12.057456 37.970554 12.79
+52822 "Mediterranean Basin" "ITA" "Italy" "Siciliy" "Isola di Levanzo" 12.335335 37.9998 6.27
+52868 "Mediterranean Basin" "ITA" "Italy" "Siciliy" "Isola di Sicilia" 14.155497 37.587635 25453.63
+52989 "Mediterranean Basin" "ITA" "Italy" "Siciliy" "Isola di Ustica" 13.175649 38.705184 8.69
+53063 "Mediterranean Basin" "ITA" "Italy" "Sardinia" "Isola di Sant'Antioco" 8.410389 39.041493 111.87
+53321 "Mediterranean Basin" "ITA" "Italy" "Sardinia" "Isola di Culuccia" 9.288434 41.204408 2.81
+53330 "Mediterranean Basin" "ITA" "Italy" "Sardinia" "Isola di Sardegna" 9.036224 40.090224 23784.2
+53552 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 43.241997 -22.193589 4.9
+53611 "Madagascar and the Indian Ocean Islands" "REU" "Reunion" "Mascarene Islands" "Ilet du Gros Galet" 55.532685 -21.133348 2512.65
+53632 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 44.138098 -20.475541 1.43
+53647 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 48.648406 -20.277613 2.51
+53663 "Madagascar and the Indian Ocean Islands" "MUS" "Mauritius" "Mascarene Islands" "Mauritius" 57.571984 -20.283626 1868.44
+53669 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 44.4502 -19.856098 2.05
+53671 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 44.453685 -19.839408 2.13
+53673 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 44.408413 -19.811414 4.56
+53685 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Ilot Indien" 44.405077 -19.754051 1.19
+53693 "Madagascar and the Indian Ocean Islands" "MUS" "Mauritius" "Rodrigues" "Ile Rodrigues" 63.421348 -19.716703 111.62
+53694 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 44.464239 -19.676756 1.37
+53696 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 44.427684 -19.637952 1.34
+53698 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 44.455316 -19.620774 59.46
+53718 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 44.239051 -18.911834 1.61
+53779 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Nato" 49.806715 -17.109975 2.75
+53829 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Sainte Marie" 49.912718 -16.894686 171.26
+53920 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 45.348704 -16.10967 2.18
+53939 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 46.06297 -15.859835 2
+53944 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 45.788033 -15.829403 15.51
+53945 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 45.804382 -15.806881 7.07
+53961 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 46.930017 -15.583747 5.21
+53973 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 47.041088 -15.528609 5.32
+53974 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 47.023943 -15.526412 5.26
+53977 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 47.022507 -15.503247 5
+53980 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 47.067004 -15.488231 1.67
+53981 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 47.043369 -15.491581 3.31
+53982 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Mangabe" 49.7675 -15.495823 5.84
+53984 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 47.072377 -15.478257 3.51
+53985 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 47.178894 -15.470138 3.06
+53990 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 47.193974 -15.454818 1.17
+53998 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 47.198415 -15.436718 7.64
+54027 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 47.999581 -14.731772 5.83
+54036 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Ambariopotaka" 47.921032 -14.64071 9.12
+54042 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Lava" 47.598136 -14.549928 31.33
+54046 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Saba" 47.640095 -14.360832 1.42
+54053 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 48.016151 -14.259828 1.01
+54056 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" NA 48.00944 -14.236351 1.93
+54064 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Valiha" 47.812955 -14.165285 8.37
+54067 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Antanimora" 47.746015 -14.114323 3.49
+54071 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Berafia" 47.800797 -14.020192 23.55
+54073 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Kalakajoro" 47.768713 -13.945656 3.87
+54081 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Iranja" 47.814723 -13.592737 1.57
+54110 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Ambariovato" 48.347624 -13.470854 24.93
+54116 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Faly" 48.481403 -13.334218 16.18
+54118 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Sakatia" 48.160857 -13.303791 5.65
+54123 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Be" 48.265602 -13.323622 282.49
+54153 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Mitsio" 48.592926 -12.890405 31.48
+54160 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Ankao" 49.828078 -12.800326 3.84
+54163 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Manambiby" 49.773254 -12.769642 2.6
+54164 "Madagascar and the Indian Ocean Islands" "MYT" "Mayotte" "Mozambique Channel Islands" "Ilot Dzaoudzi" 45.281105 -12.785322 13.98
+54170 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Lava" 48.680771 -12.743841 4.84
+54177 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Ankomba" 49.654025 -12.684396 3.76
+54179 "Madagascar and the Indian Ocean Islands" "MYT" "Mayotte" "Mozambique Channel Islands" "Mayotte" 45.143921 -12.823991 371.42
+54181 "Madagascar and the Indian Ocean Islands" "MYT" "Mayotte" "Mozambique Channel Islands" "Chissioi M'Zamboro" 45.030249 -12.646161 2.93
+54184 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Fiherenana" 49.584998 -12.625272 3.55
+54187 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Valasolo" 49.589757 -12.607868 5.57
+54192 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Antaly" 48.850091 -12.566205 1.02
+54208 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Manonoka" 48.669363 -12.45114 1.48
+54219 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Tendro" 49.548229 -12.408169 3.05
+54221 "Madagascar and the Indian Ocean Islands" "COM" "Comoros" "Mozambique Channel Islands" "Chissioua Kanzoni" 43.665802 -12.406276 2.45
+54222 "Madagascar and the Indian Ocean Islands" "COM" "Comoros" "Mozambique Channel Islands" "Chissioua Ouenefou" 43.706291 -12.403522 1.86
+54230 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Valiha" 48.706234 -12.385174 2.39
+54254 "Madagascar and the Indian Ocean Islands" "COM" "Comoros" "Mozambique Channel Islands" "Chissioua Bouelamiradji" 43.734357 -12.322965 212.09
+54259 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Hara" 49.010505 -12.242823 3.21
+54274 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Nosy Antaly-Be" 49.365547 -12.134405 1.33
+54277 "Madagascar and the Indian Ocean Islands" "COM" "Comoros" "Mozambique Channel Islands" "Ndzuwani" 44.436436 -12.222163 432.08
+54284 "Madagascar and the Indian Ocean Islands" "MDG" "Madagascar" "Madagascar" "Madagascar" 46.696664 -19.381883 590547.38
+54294 "Madagascar and the Indian Ocean Islands" "COM" "Comoros" "Mozambique Channel Islands" "Grande Comore" 43.354209 -11.662581 1021.61
+54371 "Madagascar and the Indian Ocean Islands" "SYC" "Seychelles" "Seychelles" "South Island" 46.385752 -9.441821 119.89
+54372 "Madagascar and the Indian Ocean Islands" "SYC" "Seychelles" "Seychelles" "West Island" 46.222158 -9.38619 10.17
+54422 "Madagascar and the Indian Ocean Islands" "TZA" "Tanzania" NA "Mafia Island" 39.77276 -7.855588 443.24
+54579 "Madagascar and the Indian Ocean Islands" "TZA" "Tanzania" "Zanzibar Archipelago" "Kojani Island" 39.856364 -5.08227 13.23
+54590 "Madagascar and the Indian Ocean Islands" "TZA" "Tanzania" "Zanzibar Archipelago" "Shadowa" 39.757749 -5.167745 987.08
+54618 "Madagascar and the Indian Ocean Islands" "SYC" "Seychelles" "Seychelles" "Saint Anne Island" 55.501058 -4.607185 1.46
+54621 "Madagascar and the Indian Ocean Islands" "SYC" "Seychelles" "Seychelles" "Fregate" 55.941317 -4.586333 2.3
+54624 "Madagascar and the Indian Ocean Islands" "SYC" "Seychelles" "Seychelles" "Mahe" 55.46728 -4.676443 163.01
+54628 "Madagascar and the Indian Ocean Islands" "SYC" "Seychelles" "Seychelles" "Silhouette" 55.230665 -4.487211 20.55
+54630 "Madagascar and the Indian Ocean Islands" "SYC" "Seychelles" "Seychelles" "Ile du Nord" 55.244573 -4.392996 2.12
+54633 "Madagascar and the Indian Ocean Islands" "SYC" "Seychelles" "Seychelles" "La Digue" 55.837878 -4.360895 10.57
+54636 "Madagascar and the Indian Ocean Islands" "SYC" "Seychelles" "Seychelles" "Felicite Island" 55.874865 -4.328061 2.88
+54638 "Madagascar and the Indian Ocean Islands" "SYC" "Seychelles" "Seychelles" "Praslin" 55.730145 -4.32388 39.32
+54641 "Madagascar and the Indian Ocean Islands" "SYC" "Seychelles" "Seychelles" "Curieuse" 55.725234 -4.282818 3.35
+54803 "Gulf of Guinea Islands" "STP" "Sao Tome and Principe" "Sao Tome and Principe" "Ilha de Sao Tome" 6.602256 0.238989 854.8
+54831 "Gulf of Guinea Islands" "GNQ" "Equatorial Guinea" "Bioko" "Isla de Bioko" 8.684245 3.495361 1950.46
+58136 "Sundaland" "IND" "India" "Andaman and Nicobar Islands" "Kondul Island" 93.713642 7.21724 1.89
+58137 "Sundaland" "IND" "India" "Andaman and Nicobar Islands" "Great Nicobar Island" 93.806637 7.025677 947.91
+58141 "Sundaland" "IND" "India" "Andaman and Nicobar Islands" NA 93.688713 7.402835 1.2
+58142 "Sundaland" "IND" "India" "Andaman and Nicobar Islands" "Little Nicobar Island" 93.684423 7.335958 146.03
+58152 "Sri Lanka" "LKA" "Sri Lanka" "Sri Lanka" "Buffalo Island" 81.698702 7.688862 5.15
+58153 "Sri Lanka" "LKA" "Sri Lanka" "Sri Lanka" "Bone Island" 81.694103 7.709616 1.41
+58154 "Sri Lanka" "LKA" "Sri Lanka" "Sri Lanka" NA 81.764406 7.600777 71.57
+58161 "Sundaland" "IND" "India" "Andaman and Nicobar Islands" "Katchall Island" 93.386238 7.946989 161.13
+58162 "Sundaland" "IND" "India" "Andaman and Nicobar Islands" "Nancowry Island" 93.552299 7.981356 50.23
+58166 "Sundaland" "IND" "India" "Andaman and Nicobar Islands" NA 93.582627 8.083673 17.79
+58180 "Sundaland" "IND" "India" "Andaman and Nicobar Islands" "Camorta Island" 93.503842 8.127265 138.59
+58182 "Sundaland" "IND" "India" "Andaman and Nicobar Islands" "Bompoka Island" 93.235804 8.242967 10.47
+58189 "Sri Lanka" "LKA" "Sri Lanka" "Sri Lanka" NA 79.750699 8.270803 7.76
+58194 "Sundaland" "IND" "India" "Andaman and Nicobar Islands" "Tarasa Dwip" 93.130675 8.269008 91.78
+58211 "Sundaland" "IND" "India" "Andaman and Nicobar Islands" "Tillanchang Dwip" 93.62551 8.498525 16.76
+58253 "Sundaland" "IND" "India" "Andaman and Nicobar Islands" "Car Nicobar Island" 92.775882 9.175537 129.97
+58267 "Sri Lanka" "LKA" "Sri Lanka" "Sri Lanka" NA 80.603489 9.467514 2.71
+58328 "Sri Lanka" "LKA" "Sri Lanka" "Sri Lanka" "Sri Lanka" 80.699331 7.615577 65538.62
+58380 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" "South Sentinel Island" 92.222082 10.977964 1.28
+58403 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" NA 92.640332 11.418195 123.23
+58428 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" NA 92.728232 11.950398 1.2
+58464 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" "Henry Lawrence Island" 93.068865 12.146353 53.78
+58468 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" "Sandy Island" 92.670634 11.851999 1264.52
+58469 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" "Baratang Island" 92.744265 12.207285 22.16
+58480 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" NA 92.742031 12.268503 2.84
+58482 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" NA 92.761557 12.279653 3.09
+58486 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" "Spike Island" 92.711109 12.271471 10.13
+58489 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" NA 92.806135 12.207264 244.66
+58491 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" "Barren Island" 93.846576 12.272438 41.11
+58535 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" "Middle Andaman" 92.830197 12.602266 1500.5
+58537 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" NA 92.870913 12.926072 3.61
+58562 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" "Chatham Island" 93.017955 13.316961 2.27
+58593 "Indo-Burma" "IND" "India" "Andaman and Nicobar Islands" "North Andaman" 92.928849 13.2343 1328.63
+58827 "Polynesia-Micronesia" "MNP" "Northern Mariana Islands" "Mariana Islands" "Asuncion Island" 145.419245 19.683117 18.85
+58844 "Polynesia-Micronesia" "MNP" "Northern Mariana Islands" "Mariana Islands" "East Island" 145.228826 20.020523 2.73
+58859 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Sabtang Island" 121.860858 20.308906 35.05
+58864 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Batan Island" 121.967439 20.419087 73.56
+59132 "Indo-Burma" "VNM" "Vietnam" NA "Dao Cat Ba" 107.005822 20.800673 178.6
+59963 "Taiwan" "TWN" "Taiwan" "Taiwan" NA 120.288926 22.586902 4.73
+59987 "Taiwan" "TWN" "Taiwan" "Taiwan" "Lu Dao" 121.490499 22.660052 16.82
+60161 "Japan" "JPN" "Japan" "Japan" "Hateruma-jima" 123.782183 24.05851 13.28
+60162 "Taiwan" "TWN" "Taiwan" "Taiwan" NA 120.390851 24.072224 13
+60171 "Japan" "JPN" "Japan" "Bonin Islands" "Minami-io-jima" 141.46319 24.235354 3.61
+60172 "Japan" "JPN" "Japan" "Japan" "Kuro-shima" 124.010534 24.237904 10.74
+60175 "Japan" "JPN" "Japan" "Japan" "Taketomi-shima" 124.088119 24.325062 5.81
+60178 "Japan" "JPN" "Japan" "Japan" "Obama-jima" 123.98022 24.339305 8.2
+60195 "Japan" "JPN" "Japan" "Japan" "Iriomote-jima" 123.814688 24.335813 291.46
+60200 "Japan" "JPN" "Japan" "Japan" "Okidaito-jima" 131.18832 24.467275 1.36
+60201 "Japan" "JPN" "Japan" "Japan" "Yonaguni-jima" 122.988732 24.455253 29.88
+60202 "Japan" "JPN" "Japan" "Japan" "Hatoma-jima" 123.820056 24.472522 1.11
+60213 "Japan" "JPN" "Japan" "Japan" "Ishigaki-jima" 124.205545 24.433381 229.98
+60220 "Japan" "JPN" "Japan" "Japan" "Tarama-shima" 124.699288 24.656982 20.48
+60231 "Japan" "JPN" "Japan" "Bonin Islands" "Io-to" 141.317206 24.782506 22.72
+60240 "Taiwan" "TWN" "Taiwan" "Taiwan" "Guishan Dao" 121.951666 24.842593 2.87
+60243 "Japan" "JPN" "Japan" "Japan" "Irabu-jima" 125.179153 24.829506 40.72
+60247 "Japan" "JPN" "Japan" "Japan" "Miyako-jima" 125.332376 24.774041 164.79
+60330 "Taiwan" "TWN" "Taiwan" "Taiwan" "Guanghua Dao" 120.97359 23.751432 35970.39
+60384 "Japan" "JPN" "Japan" "Bonin Islands" "Kita-io-jima" 141.282652 25.433157 6.16
+60467 "Japan" "JPN" "Japan" "Japan" "Minami-daito-jima" 131.242729 25.843178 31.61
+60472 "Japan" "JPN" "Japan" "Japan" "Kitadaito-jima" 131.307262 25.94437 12.31
+60499 "Japan" "JPN" "Japan" "Japan" "Geruma-jima" 127.289345 26.181625 1.34
+60504 "Japan" "JPN" "Japan" "Japan" "Aka-jima" 127.278968 26.198623 4.16
+60511 "Japan" "JPN" "Japan" "Japan" "Tokashiki-jima" 127.356214 26.188553 16.73
+60533 "Japan" "JPN" "Japan" "Japan" "Tsuken-jima" 127.941502 26.252339 2.1
+60570 "Japan" "JPN" "Japan" "Japan" "Tonaki-jima" 127.147575 26.364512 3.95
+60574 "Japan" "JPN" "Japan" "Japan" "Kume-jima" 126.773293 26.349982 60.61
+60636 "Japan" "JPN" "Japan" "Japan" "Sesoko-shima" 127.864001 26.643909 3.21
+60641 "Japan" "JPN" "Japan" "Japan" "Yagaji-jima" 128.01317 26.663641 8.27
+60658 "Japan" "JPN" "Japan" "Bonin Islands" "Haha-jima" 142.157199 26.667203 22.49
+60661 "Japan" "JPN" "Japan" "Japan" "Ie-shima" 127.789584 26.721622 23.33
+60681 "Japan" "JPN" "Japan" "Japan" "Miyagi-jima" 127.959792 26.493709 1233.91
+60715 "Japan" "JPN" "Japan" "Japan" "Yoron-jima" 128.430591 27.042778 20.89
+60717 "Japan" "JPN" "Japan" "Japan" "Iheya-shima" 127.969979 27.046358 23.36
+60742 "Japan" "JPN" "Japan" "Japan" "Okino-erabu-shima" 128.597494 27.380304 94.98
+60826 "Japan" "JPN" "Japan" "Japan" "Tokuno-shima" 128.948928 27.773461 253.09
+60881 "Japan" "JPN" "Japan" "Japan" "Kakeroma-jima" 129.257393 28.123869 79.84
+60926 "Japan" "JPN" "Japan" "Japan" "Kikaiga-shima" 129.97242 28.323027 59.49
+60954 "Japan" "JPN" "Japan" "Japan" "Amami-oshima" 129.426562 28.311807 722.95
+61055 "Japan" "JPN" "Japan" "Japan" "Takara-jima" 129.207673 29.146641 7.41
+61120 "Japan" "JPN" "Japan" "Japan" "Akuseki-shima" 129.602299 29.459413 8.01
+61175 "Japan" "JPN" "Japan" "Japan" "Suwanose-jima" 129.712841 29.641179 29.82
+61182 "Japan" "JPN" "Japan" "Japan" "Taira-shima" 129.533032 29.687286 2.54
+61244 "Japan" "JPN" "Japan" "Japan" "Nakano-shima" 129.871098 29.848849 35.69
+61314 "Japan" "JPN" "Japan" "Japan" "Kuchino-shima" 129.922578 29.972314 14.33
+61466 "Japan" "JPN" "Japan" "Japan" "Yaku-shima" 130.522252 30.339135 508.04
+61473 "Japan" "JPN" "Japan" "Japan" "Kuchinoerabu-jima" 130.209712 30.455885 37.14
+61593 "Japan" "JPN" "Japan" "Japan" "Tanega-shima" 130.975089 30.580814 449
+61611 "Japan" "JPN" "Japan" "Japan" NA 131.02823 31.369726 2.21
+61632 "Japan" "JPN" "Japan" "Japan" NA 130.52611 31.494758 2.62
+61650 "Japan" "JPN" "Japan" "Japan" "Shimokoshiki-jima" 129.720072 31.688628 67.56
+61732 "Japan" "JPN" "Japan" "Japan" "Amakusa-shimoshima" 130.163456 32.402414 817.42
+61734 "Japan" "JPN" "Japan" "Japan" "Kaba-shima" 129.781733 32.559895 2.38
+61744 "Japan" "JPN" "Japan" "Japan" NA 131.697397 32.586874 1.35
+61751 "Japan" "JPN" "Japan" "Japan" "Tobase-jima" 130.494628 32.59608 7.5
+61789 "Japan" "JPN" "Japan" "Japan" "Maki-shima" 129.975181 32.754139 1.95
+61800 "Japan" "JPN" "Japan" "Japan" "Fukue-jima" 128.745266 32.683948 333.14
+61840 "Japan" "JPN" "Japan" "Japan" "O-shima" 132.695879 32.914729 1.11
+61876 "Japan" "JPN" "Japan" "Japan" "Onyu-jima" 131.926778 32.998277 6.06
+61924 "Japan" "JPN" "Japan" "Japan" "Nakadori-shima" 129.083867 32.964519 173.54
+61960 "Japan" "JPN" "Japan" "Japan" NA 132.403197 33.195665 3.22
+62045 "Japan" "JPN" "Japan" "Japan" "Hirado-shima" 129.465011 33.284708 168.13
+62048 "Japan" "JPN" "Japan" "Japan" "Fuku-shima" 129.825253 33.38138 17.79
+62159 "Japan" "JPN" "Japan" "Japan" "Kokatsu-shima" 134.656663 33.861333 1.27
+62197 "Japan" "JPN" "Japan" "Japan" NA 130.813848 33.939872 7.18
+62207 "Japan" "JPN" "Japan" "Japan" "Yashiro-jima" 132.278727 33.913849 129.9
+62209 "Japan" "JPN" "Japan" "Japan" "Futatsuko-jima" 130.867657 32.64945 36934.92
+62255 "Japan" "JPN" "Japan" "Japan" "Muko-shima" 131.579005 34.00498 8.14
+62273 "Japan" "JPN" "Japan" "Japan" NA 131.764694 34.041361 1.83
+62286 "Japan" "JPN" "Japan" "Japan" NA 134.598821 34.059942 1.32
+62316 "Japan" "JPN" "Japan" "Japan" "Miyake-jima" 139.521121 34.084866 56.64
+62342 "Japan" "JPN" "Japan" "Japan" "Hime-kojima" 132.230048 34.150271 7.46
+62383 "Japan" "JPN" "Japan" "Japan" "O-shima" 133.052626 34.155583 42.72
+62459 "Japan" "JPN" "Japan" "Japan" "Kozu-shima" 139.147638 34.214633 18.74
+62471 "Japan" "JPN" "Japan" "Japan" "Okino-shima" 130.105141 34.24459 1.18
+62477 "Japan" "JPN" "Japan" "Japan" "Shimada-shima" 134.612355 34.220003 17.11
+62521 "Japan" "JPN" "Japan" "Japan" NA 132.801558 34.275185 1.8
+62561 "Japan" "JPN" "Japan" "Japan" "O-shima" 136.821367 34.291454 1.62
+62582 "Japan" "JPN" "Japan" "Japan" "Itsuku-shima" 132.306351 34.271061 30.78
+62628 "Japan" "JPN" "Japan" "Japan" "Shikine-jima" 139.21115 34.325627 4.29
+62709 "Japan" "JPN" "Japan" "Japan" "Iwashi-jima" 133.163202 34.38138 2.48
+62712 "Japan" "JPN" "Japan" "Japan" NA 132.447309 34.371527 2.19
+62729 "Japan" "JPN" "Japan" "Japan" "Shikoku" 133.465979 33.662249 18313.93
+62750 "Japan" "JPN" "Japan" "Japan" "Mukai-shima" 133.202732 34.384355 22.63
+62795 "Japan" "JPN" "Japan" "Japan" "Nii-jima" 139.26642 34.377163 23.11
+62811 "Japan" "JPN" "Japan" "Japan" "Omi-shima" 131.209823 34.418771 15.32
+62905 "Japan" "JPN" "Japan" "Japan" "Te-shima" 134.074301 34.480763 14.5
+62944 "Japan" "JPN" "Japan" "Japan" "To-shima" 139.279106 34.522303 4.23
+62983 "Japan" "JPN" "Japan" "Japan" "Shodo-shima" 134.270328 34.499653 155.06
+63060 "Japan" "JPN" "Japan" "Japan" "Awaji-shima" 134.838277 34.362961 595.56
+63173 "Japan" "JPN" "Japan" "Japan" NA 134.232318 34.674306 1.83
+63251 "Japan" "JPN" "Japan" "Japan" "Ko-jima" 134.25876 34.699175 2.16
+63253 "Japan" "JPN" "Japan" "Japan" "Okino-shima" 129.326482 34.408713 729.4
+63285 "Japan" "JPN" "Japan" "Japan" NA 135.298542 34.710737 1.41
+63309 "Japan" "JPN" "Japan" "Japan" "Kakui-jima" 134.307608 34.71596 10.51
+63444 "Japan" "JPN" "Japan" "Japan" NA 137.315519 34.788374 1.89
+63447 "Japan" "JPN" "Japan" "Japan" "Mi-shima" 131.143004 34.774848 8.21
+63449 "Japan" "JPN" "Japan" "Japan" "O-shima" 139.398777 34.737398 91.79
+63695 "Japan" "JPN" "Japan" "Japan" NA 136.661792 34.984028 4.13
+63881 "Japan" "JPN" "Japan" "Japan" "Daikon-shima" 133.174603 35.498695 9.66
+63883 "Japan" "JPN" "Japan" "Japan" NA 139.775016 35.522748 4.42
+63892 "Japan" "JPN" "Japan" "Japan" NA 139.76461 35.571021 1.15
+63907 "Japan" "JPN" "Japan" "Japan" NA 139.762916 35.593022 8.89
+63918 "Japan" "JPN" "Japan" "Japan" NA 139.779963 35.618291 3.38
+63922 "Japan" "JPN" "Japan" "Japan" NA 139.813193 35.647062 1.51
+63928 "Japan" "JPN" "Japan" "Japan" "Tsuki-shima" 139.778842 35.657493 2.72
+63930 "Japan" "JPN" "Japan" "Japan" NA 139.969208 35.675361 1.55
+63981 "Japan" "JPN" "Japan" "Japan" "Chiburi-shima" 133.031037 36.014886 13.29
+63993 "Japan" "JPN" "Japan" "Japan" "Matsu-shima" 133.163081 36.107095 1.18
+63994 "Japan" "JPN" "Japan" "Japan" "Nakano-shima" 133.098224 36.083692 33.44
+64000 "Japan" "JPN" "Japan" "Japan" "Nishino-shima" 133.015719 36.096525 58.01
+64058 "Japan" "JPN" "Japan" "Japan" "Dogo" 133.279261 36.251121 243.96
+64237 "Japan" "JPN" "Japan" "Japan" "Nakano-shima" 136.982916 37.130275 48.15
+64454 "Japan" "JPN" "Japan" "Japan" "Kinkazan-to" 141.568819 38.292899 10.3
+64462 "Japan" "JPN" "Japan" "Japan" "Sadoga-shima" 138.390158 38.044467 857.66
+64495 "Japan" "JPN" "Japan" "Japan" "Awa-shima" 139.24028 38.462667 9.77
+64825 "Japan" "JPN" "Japan" "Japan" NA 140.001284 40.002863 157.12
+64857 "Japan" "JPN" "Japan" "Japan" "Honshu" 137.977928 36.652266 227522.73
+64869 "Japan" "JPN" "Japan" "Japan" "Okushiri-to" 139.473362 42.155913 145.91
+64873 "Japan" "JPN" "Japan" "Japan" "Hokkaido" 142.562424 43.381279 77616.7
+64875 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Sepenbak Island" 152.327342 -3.803518 7049.72
+64885 "Papua New Guinea" "IDNPN" "Indonesia; Papua New Guinea" "Malay Archipelago" "New Guinea" 140.948501 -5.338301 773633.97
+64906 "Sundaland" "IDNMY" "Indonesia; Malaysia" "Malay Archipelago" "Borneo" 114.206749 0.860111 725098.05
+64967 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Buru" 126.635913 -3.427877 8532.72
+64978 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Freterenusu" 133.776481 -3.078512 12.79
+64989 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 116.17718 -3.046951 3.35
+64993 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Lihir Island" 152.598744 -3.120609 201.93
+64998 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Mali Island" 152.683438 -3.032403 1.96
+65016 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Padopado" 122.339609 -3.013117 7.63
+65020 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 116.102928 -2.987468 1.07
+65023 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Mait Island" 150.730678 -2.991921 2.56
+65026 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 116.154083 -3.003934 15.84
+65053 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Masahet Island" 152.657643 -2.951062 8.88
+65057 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 107.521873 -2.942241 2.44
+65060 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Pua" 127.901496 -2.941473 9.13
+65065 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Kasuari" 127.898261 -2.922703 2.03
+65068 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Boano" 127.922454 -2.982165 128.44
+65072 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Dyaul Island" 150.877453 -2.950026 113.21
+65075 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 116.168458 -2.928542 18.09
+65125 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Pagai Selatan" 100.328594 -3.028067 875.51
+65132 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Campedak" 129.460712 -3.201377 17409.01
+65134 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Mahur Island" 152.657421 -2.782536 8.77
+65160 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Baudisson Island" 150.66852 -2.730408 23.46
+65161 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Mabua Island" 151.984181 -2.846287 236.58
+65181 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Manne Island" 150.708873 -2.699984 16.52
+65184 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Nonowaul Island" 150.634988 -2.678814 1.03
+65188 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Lisseno Number 2 Island" 150.734619 -2.678116 1.35
+65202 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Selapiu Island" 150.570006 -2.690314 26.14
+65207 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Enang Island" 150.473698 -2.668395 3.62
+65209 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Tungelo Island" 150.449121 -2.663566 3.74
+65210 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Kabotteron Island" 150.683585 -2.659289 1.84
+65218 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Wadei Island" 150.63857 -2.657934 4.09
+65227 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Globig Island" 150.724007 -2.647575 1.94
+65235 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Nuselawa Island" 150.492113 -2.650711 3.72
+65254 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Lemus Island" 150.630734 -2.627787 1.14
+65255 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Nubils Island" 150.534109 -2.627708 1.96
+65275 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Bangatang Island" 150.594777 -2.632503 14.26
+65280 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Tagalop Island" 150.570751 -2.620464 4.61
+65287 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.514872 -2.617791 10.52
+65288 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Simberi Island" 151.985086 -2.630709 56.66
+65292 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.395684 -2.621274 11.21
+65293 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Patio Island" 150.538696 -2.595643 6.17
+65296 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Nusalik Island" 150.778904 -2.575522 1.49
+65297 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Anelaua Island" 150.485483 -2.574929 2.97
+65304 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.412765 -2.595961 25.57
+65315 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.744114 -2.602938 77.96
+65323 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Belitung" 107.907084 -2.886896 4617.54
+65325 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.539188 -2.561586 49.07
+65326 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.78558 -2.561308 37.27
+65329 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.484332 -2.580546 55.72
+65330 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Pagai Utara" 100.079461 -2.697147 612.84
+65332 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.721243 -2.527623 31.37
+65335 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.842202 -2.496 1.18
+65336 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Amutu Kecil" 133.650707 -2.516678 25.83
+65341 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sombroko" 134.304101 -2.489225 1.13
+65343 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Kawulikiau Island" 150.520307 -2.520736 20.56
+65346 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Bingbingseng Island" 150.485534 -2.46913 2.56
+65369 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Tsoi-Boto Island" 150.458735 -2.446433 5.42
+65379 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Tsoi-Lik Island" 150.421503 -2.419702 1.76
+65381 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Asap" 133.340109 -2.452032 27.01
+65383 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.792609 -2.443553 77.9
+65394 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.908921 -2.430667 94.18
+65407 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "New Hanover" 150.233483 -2.53034 1221.32
+65410 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Payung" 104.921121 -2.375083 5.03
+65415 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Lou Island" 147.341662 -2.386528 53.13
+65418 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Nemto Island" 150.308442 -2.34814 1.79
+65422 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Modan" 133.924824 -2.361496 62.88
+65454 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Rambutyo Island" 147.804858 -2.310163 99.63
+65464 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Nusa Wammer" 133.93195 -2.292591 73.15
+65473 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.606048 -2.22772 3.44
+65517 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.719617 -2.204605 26.42
+65598 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 116.448624 -2.157306 91.96
+65605 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.891747 -2.120575 11.68
+65609 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 132.125396 -2.110769 1.88
+65612 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.855571 -2.11927 15.46
+65617 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 133.918476 -2.104774 1.76
+65655 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 137.215898 -2.06647 2.55
+65700 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sipura" 99.669738 -2.199665 605.41
+65726 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Purupi" 134.154048 -2.028509 3.74
+65762 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sanana" 125.955756 -2.211293 537.58
+65763 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Los Negros Island" 147.389786 -2.045539 55.65
+65792 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 132.07612 -1.980958 17.11
+65794 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Pityilu Island" 147.22505 -1.961133 2.38
+65798 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Manus Island" 146.912301 -2.088798 1855.71
+65844 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Pengia" 121.4386 -1.932159 2.48
+65853 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Ponam Island" 146.884956 -1.913089 1.11
+65865 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Gimpa" 121.370049 -1.909197 1.65
+65880 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Saweru" 136.285258 -1.911634 20.13
+65891 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 137.202746 -1.907329 48
+65902 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Alanggantang" 104.570352 -1.932065 158.41
+65907 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 131.953057 -1.883737 30.7
+65910 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Tokobae" 121.3894 -1.849496 9
+65933 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 105.810545 -1.800859 1.59
+65936 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 137.303241 -1.809053 10.26
+65945 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Mangole" 125.776664 -1.859624 1217.56
+65977 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Keiari" 135.802634 -1.746035 1.16
+65984 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Rumberpon" 134.184508 -1.8391 102.79
+65997 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Wuvulu Island" 142.850367 -1.737918 15.13
+66026 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 132.06792 -1.70725 1.48
+66028 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 137.328005 -1.765931 148.99
+66051 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Misool" 130.131232 -1.878304 2105.25
+66067 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Sanilu" 149.926493 -1.667409 11.36
+66082 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Taliabu" 124.748042 -1.816952 2930.45
+66087 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Emirau Island" 149.975686 -1.663443 24.56
+66098 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sorenarwa" 136.204587 -1.752036 2294.14
+66116 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 137.986601 -1.589906 4.38
+66118 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.004147 -1.59308 8.4
+66121 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Emananus Island" 149.582555 -1.575441 4.75
+66122 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" NA 128.092411 -1.568761 2.43
+66130 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Eloaue Island" 149.637275 -1.571848 8.54
+66138 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Karimata" 108.892022 -1.60801 187.14
+66143 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Boliu Island" 149.648554 -1.538703 1.16
+66144 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Toulan" 123.473442 -1.54294 2.25
+66169 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Luf Island" 145.066932 -1.529826 6.78
+66171 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Bangka" 105.987384 -2.253076 11558.83
+66192 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Malamala" 127.391728 -1.504354 10.07
+66200 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Banggai" 123.539174 -1.624445 273.57
+66265 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Liot Island" 144.512731 -1.407354 1.43
+66276 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Mal Island" 144.18618 -1.405333 2.72
+66289 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Obilatu" 127.341816 -1.40677 65.91
+66299 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 130.9468 -1.357059 1.31
+66301 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 131.321863 -1.386989 40.19
+66317 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Obi" 127.739238 -1.561055 2471.57
+66333 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Mussau Island" 149.619462 -1.430651 342.84
+66418 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Owi" 136.208505 -1.242153 8.89
+66473 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 131.049577 -1.201367 3.81
+66478 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Cubadak" 100.388588 -1.210458 7.42
+66486 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Panebangan" 109.245008 -1.215239 22.86
+66493 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Bisa" 127.581801 -1.234445 174.9
+66522 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Peling" 123.140681 -1.374962 2346.25
+66531 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Kofiau" 129.849201 -1.190005 148.28
+66547 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Analtin Island" 144.414006 -1.149591 3.28
+66609 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 131.240619 -1.074343 2.48
+66637 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.936584 -1.035961 1.59
+66646 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.946915 -1.025498 2.72
+66692 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Numfoor" 134.884813 -1.034718 329.46
+66693 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Rani" 135.500897 -0.954607 3.43
+66696 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 131.254279 -0.937112 2.6
+66704 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Siberut" 98.928164 -1.375106 3835.83
+66710 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Salawati" 130.88437 -1.100798 1664.53
+66725 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Suf Island" 145.555781 -0.883517 3
+66731 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Muarajawa" 117.259247 -0.869947 3.17
+66733 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Muaraulu" 117.375618 -0.870784 11.59
+66755 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.478915 -0.827807 4.88
+66773 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Prangatan" 117.343042 -0.852635 49.98
+66782 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.289751 -0.776423 1.87
+66790 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Batanta" 130.65681 -0.848451 454.65
+66792 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.51302 -0.762514 1.97
+66794 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.465606 -0.769533 13.93
+66798 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 109.60453 -0.762672 22.98
+66804 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 109.565736 -0.727923 5.05
+66805 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 109.59209 -0.728674 6.78
+66808 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Nubi" 117.512231 -0.702792 2.06
+66811 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.415021 -0.732715 27.1
+66822 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.311934 -0.765988 53.32
+66827 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 109.484851 -0.70655 50.86
+66829 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Pemankaran" 117.514206 -0.746238 146.16
+66831 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Padangtikar" 109.470257 -0.831151 998.14
+66838 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 109.373514 -0.664725 10.22
+66839 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Kayu Mojara" 117.502435 -0.677074 20.22
+66862 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.486387 -0.643492 15.71
+66865 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Periling" 109.512115 -0.664146 79.35
+66869 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Biak" 135.883432 -0.925871 2524.01
+66873 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Panjang" 109.4023 -0.649767 34.23
+66875 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Pemarung" 117.376766 -0.754782 181.82
+66884 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Obit" 127.370747 -0.635904 41.06
+66887 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 109.29326 -0.602501 3.15
+66888 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" NA 127.387808 -0.599396 1.48
+66905 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Mansuar" 130.604759 -0.589122 14.8
+66918 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.424639 -0.616605 219.21
+66942 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Bambu" 121.868009 -0.52308 1.65
+66959 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.563455 -0.501478 2.09
+66965 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Herberg" 127.285602 -0.50409 7.51
+67022 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Bungin" 121.800097 -0.423232 1.09
+67029 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.528955 -0.423363 2.68
+67035 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Batudaka" 121.803632 -0.482767 248.35
+67036 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Terentang" 117.533693 -0.510388 221.05
+67043 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Gag" 129.883169 -0.44313 61.92
+67044 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Gam" 130.589988 -0.46709 194.09
+67051 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Pogodongan" 121.819056 -0.398707 2.03
+67080 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.492933 -0.426054 71.4
+67082 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Batongo" 121.857765 -0.358205 3.25
+67085 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.497212 -0.36684 5.55
+67089 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Amsterdam" 132.170057 -0.347109 1.01
+67098 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Singkep" 104.424408 -0.491571 783.76
+67103 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.462009 -0.383429 36.14
+67108 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Togean" 121.961056 -0.384239 181.83
+67126 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sunsa" 104.989942 -0.31684 1.01
+67146 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Bacan" 127.563639 -0.592101 1817.48
+67147 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Gemien" 130.504777 -0.315252 9.68
+67153 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 130.87286 -0.302888 7.5
+67169 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Talatakoh" 122.101524 -0.367111 99.79
+67182 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Taoleh" 122.120154 -0.262393 2.14
+67185 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Malenge" 122.062917 -0.259727 13.42
+67186 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Tanahbala" 98.43493 -0.43299 450.45
+67195 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Waleakodi" 122.195362 -0.253929 42.18
+67197 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Waleabahi" 122.317545 -0.272292 80.54
+67199 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Laut" 109.103342 -0.243495 80.7
+67203 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 130.336551 -0.205035 2.5
+67216 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Karunia" 109.126848 -0.188282 20.91
+67225 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 109.140089 -0.16738 7.15
+67234 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Unauna" 121.614101 -0.169313 78.65
+67236 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Sepokperupuk" 109.110233 -0.144337 12.74
+67244 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Me" 130.264234 -0.112799 2.14
+67271 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Fau" 129.423394 -0.097714 6.04
+67274 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Cawang" 103.536773 -0.100626 42.7
+67283 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Tanjungsaleh" 109.15734 -0.128063 57.82
+67294 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 103.493982 -0.072343 7.06
+67331 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Kura" 103.659208 -0.035119 11.76
+67336 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Kelayang" 103.626017 -0.030217 13.05
+67340 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 130.839023 -0.207556 3035.68
+67352 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Tanahmasa" 98.450703 -0.158715 335
+67368 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Lingga" 104.655528 -0.171555 866.55
+67381 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Panjang" 109.206704 0.033689 11.31
+67382 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" NA 129.466226 -0.100428 143.3
+67538 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Panggalaran" 99.288543 0.218128 2.56
+67541 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 102.418299 0.224665 1.32
+67544 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 102.5022 0.239274 1.01
+67699 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Pangalasiang" 119.90083 0.488158 2.04
+67718 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Lito Puntu Daa" 121.694627 0.498112 6.98
+67730 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Maputi" 119.861615 0.52102 4.89
+67865 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Maitara" 127.370809 0.732842 2.8
+67882 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Tidore" 127.411981 0.687616 118.9
+67952 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Kumeke" 124.675673 0.808187 1.15
+68011 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Ternate" 127.341198 0.806705 102.04
+68072 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Buton" 104.636128 0.879515 13.08
+68076 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Lito Ponelo" 122.883104 0.87722 7.76
+68098 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Lito Dudepo" 122.785331 0.892624 12.28
+68209 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Bentenan" 124.907394 0.974238 1.39
+68226 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Lingayan" 120.239989 0.977755 1.45
+68254 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Tenggelanga" 120.718168 0.994192 5.16
+68275 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 104.38307 1.000929 5.47
+68296 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Tambelan Besar" 107.562278 0.993629 31.85
+68339 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Kabetan" 120.6388 1.04533 9.12
+68350 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Simatang" 120.383955 1.042567 23.16
+68448 "Sundaland" "IDN" "Indonesia" NA "Pulau Bintan" 104.476507 1.036031 1172.2
+68456 "Sundaland" "SGP" "Singapore" NA "Sentosa" 103.829607 1.248979 4.52
+68458 "Sundaland" "SGP" "Singapore" NA "Pulau Brani" 103.833631 1.259609 1.43
+68487 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Dolangon" 120.886524 1.366082 1.66
+68507 "Sundaland" "SGP" "Singapore" NA NA 103.891147 1.419307 1.09
+68515 "Sundaland" "SGP" "Singapore" NA NA 103.878748 1.425413 1.95
+68517 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 118.449423 1.410408 12.39
+68536 "Sundaland" "SGP" "Singapore" NA "Singapore Island" 103.809445 1.359489 593.52
+68545 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Nias" 97.588031 1.063251 4096.97
+68547 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Lembeh" 125.236183 1.44317 58.06
+68552 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 110.403687 1.563962 1.32
+68570 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Bunaken" 124.76222 1.618632 8.34
+68571 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 110.48145 1.570862 90.62
+68577 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Manado Tua" 124.698866 1.633243 10.62
+68587 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" "Pulau Kalasah" 110.294885 1.670908 1.58
+68594 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Tamperong" 125.024971 1.696865 1.74
+68598 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" "Pulau Salak" 110.259904 1.674406 50.82
+68612 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 110.432811 1.657242 166.43
+68614 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Towade Paniki" 124.741518 1.740857 2.65
+68615 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Mantehage" 124.75771 1.717581 19.92
+68631 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Gangga" 125.054508 1.771639 1.97
+68642 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 110.342673 1.724218 59.7
+68647 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pualu Bangka" 125.148488 1.792379 45.57
+68657 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Talise" 125.073174 1.843861 18.38
+68705 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.662348 2.07384 11.51
+68715 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Lungsuran-naga" 117.804538 2.062494 125.24
+68716 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 111.310635 2.086736 26.86
+68717 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Bangkaru" 97.117752 2.068978 58.53
+68727 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Babi" 96.647609 2.093192 46.57
+68734 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 111.257005 2.101662 35.03
+68740 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Guntung" 117.873429 2.110224 39.57
+68749 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sodang-besar" 117.762749 2.137109 68.42
+68751 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Telassau" 117.744585 2.175802 10.38
+68756 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Reusam" 96.635375 2.169266 15.67
+68757 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.886044 2.181773 3.37
+68761 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Tempurung" 117.859087 2.175257 12.89
+68762 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.661761 2.187182 1.11
+68763 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Lalawan" 117.868246 2.142859 63.33
+68767 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Badak Badak" 117.910923 2.180673 11.85
+68769 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.668159 2.195454 5.48
+68771 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Ngelengele-besar" 128.209465 2.200334 1.54
+68777 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Halmahera" 128.01526 0.871227 18015.95
+68784 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Tuangku" 97.265177 2.160949 213.66
+68813 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 111.282591 2.189921 204.92
+68842 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Wanua Tagulandang" 125.417798 2.350119 54.43
+68845 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Rau" 128.15825 2.344072 61.37
+68846 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 111.244943 2.324275 244.05
+68875 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 111.412699 2.512909 1.26
+68890 "Sundaland" "IDN" "Indonesia" NA "Pulau Serasan" 109.041474 2.518796 60.39
+68894 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 99.987618 2.579314 1.04
+68896 "Sundaland" "MYS" "Malaysia" NA "Pulau Pemanggil" 104.328036 2.580844 9.28
+68912 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Morotai" 128.456634 2.316399 2281.47
+68925 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Siumat" 96.374158 2.652663 4.26
+68942 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Lekon" 95.732748 2.709451 3.56
+68957 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 96.114801 2.744199 1.95
+68970 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Siau" 125.400876 2.736964 116.42
+68971 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.619485 2.805998 1.45
+68972 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.639562 2.808327 1.51
+68983 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Pimping" 117.687097 2.822382 38.99
+68999 "Sundaland" "MYS" "Malaysia" NA "Pulau Tioman" 104.171622 2.78819 136.79
+69004 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.637691 2.881763 71.59
+69009 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.565926 2.915614 1.04
+69015 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Simeulue" 96.066051 2.631954 1740.76
+69017 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Pekin" 117.659359 2.915447 31.88
+69043 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Mening" 117.626447 2.953996 62.46
+69047 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.629586 2.988145 1.82
+69060 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.519003 2.977126 48.29
+69109 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.50709 3.074321 1.13
+69112 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.565391 3.070654 2.81
+69114 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.462722 3.068258 2.56
+69121 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.596678 3.071069 7.79
+69133 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.482279 3.081258 2.31
+69142 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.557688 3.085458 2.01
+69152 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.590152 3.089945 4.31
+69155 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.508422 3.089617 1.21
+69164 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.498496 3.098116 1.47
+69176 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.37462 3.074609 20.11
+69179 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.574513 3.106223 4.13
+69182 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.42415 3.077816 52.63
+69213 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.227584 3.182432 2.05
+69229 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.287232 3.221125 7.38
+69232 "Sundaland" "IDN" "Indonesia" NA "Pulau Siantan" 106.24387 3.161845 107.57
+69266 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.44862 3.296878 95.65
+69333 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.41241 3.402678 33.32
+69359 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.525048 3.50518 6.18
+69363 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.57421 3.497052 32.96
+69370 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.466768 3.532863 34.21
+69380 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Bangkudulis-besar" 117.344469 3.516106 268.22
+69401 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.465904 3.689138 17.12
+69402 "Sundaland" "IDN" "Indonesia" NA "Komang" 108.059502 3.690886 12.35
+69403 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Sangihe Besar" 125.541348 3.553896 560.61
+69408 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.788566 3.746727 9.61
+69414 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 117.799813 3.77171 8.95
+69416 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Mandul" 117.637522 3.703981 456.08
+69435 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Ahus" 117.769473 3.826768 62.65
+69442 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 98.639089 3.902169 8.5
+69470 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Salibabu" 126.670421 3.924533 91.21
+69471 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Pinabasan" 117.538047 3.959597 193.95
+69476 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sinelak" 117.485707 4.057659 1.44
+69504 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 117.577067 4.189362 27.06
+69506 "Sundaland" "IDN" "Indonesia" NA "Pulau Natuna Besar" 108.202273 3.915835 1637.67
+69512 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 117.570967 4.225894 26.35
+69514 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sebatik" 117.790302 4.154421 441.31
+69520 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" "Pulau Simandalan" 117.595314 4.26782 56.65
+69521 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 117.610931 4.29583 14.5
+69525 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" "Pulau Kalumpang" 118.345945 4.328891 4.88
+69529 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 117.60445 4.361631 1.42
+69530 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 118.328844 4.360274 2.97
+69534 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 117.643399 4.396449 5.66
+69535 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 117.615805 4.407856 1.56
+69536 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 117.63709 4.409785 2.52
+69540 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" "Pulau Bingkulan" 117.66395 4.419192 5.75
+69542 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 98.261906 4.427756 4.8
+69555 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" "Pulau Bumbun" 118.679659 4.459582 57.02
+69557 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" "Pulau Penempangan" 118.484085 4.509819 9.56
+69561 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Karakelong" 126.780523 4.287362 812
+69648 "Sundaland" "IDN" "Indonesia" NA "Pulau Laut" 107.972222 4.713042 36.2
+69679 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Sibutu Island" 119.475875 4.780687 107.36
+69735 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bongao Island" 119.756094 5.021475 11.13
+69751 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bakhan Dakula Island" 119.811403 5.098769 1.21
+69754 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Sanga-Sanga Island" 119.780882 5.073466 45.8
+69795 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" NA 96.394138 5.207814 1.18
+69859 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" "Ta" 153.679729 5.297721 1.86
+69867 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Taitagan Island" 120.05372 5.194487 621.5
+69875 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" "Kosrae" 162.976383 5.309812 112.16
+69883 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" "Pulau Evans" 118.923842 5.388367 7.63
+69891 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Balut Island" 125.38721 5.399448 54.84
+69986 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" "Lukunoch" 153.814915 5.503466 1.52
+70052 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sumatera" 101.528161 -0.45727 429003.21
+70095 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" "Pulau Tigowis" 118.134482 5.74756 1.03
+70106 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 117.906273 5.765299 2.5
+70129 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" "Pulau Timbang" 117.972845 5.768729 32.57
+70143 "Sundaland" "MYS" "Malaysia" NA "Pulau Redang" 103.011431 5.781774 24.68
+70161 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 118.188853 5.83328 26.73
+70171 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" "Pulau Saraun" 117.485298 5.871764 1.9
+70179 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" "Pulau Berhala" 118.144115 5.871187 2.54
+70217 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" NA 117.628978 5.964138 71.32
+70265 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Jolo Island" 121.129132 5.975911 842.08
+70268 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Tongkil Island" 121.845529 6.035344 49.42
+70554 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Pangasahan Island" 121.794468 6.616002 1.54
+70608 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" NA 157.938478 6.730014 1.04
+70612 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Basilan Island" 122.041755 6.579308 1245.93
+70613 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Malamaui Island" 121.963757 6.730982 17.49
+70626 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Pujada Island" 126.267558 6.78781 2
+70663 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Malanipa Island" 122.283424 6.88671 3.46
+70671 "Polynesia-Micronesia" "PLW" "Palau" "Palau Islands" "Ngeaur" 134.137177 6.907281 8.36
+70682 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" "Pwokolos" 158.296142 6.944699 3.83
+70691 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" "Pohnpei" 158.227342 6.880338 354.06
+70695 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" "Dekehtik" 158.208207 6.982792 2.17
+70712 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cagayan Sulu Island" 118.478624 7.00791 70.82
+70713 "Polynesia-Micronesia" "PLW" "Palau" "Palau Islands" "Peleliu" 134.245196 7.011291 19.24
+70872 "Polynesia-Micronesia" "PLW" "Palau" "Palau Islands" "Mecherchar" 134.361377 7.159262 12.23
+70944 "Polynesia-Micronesia" "PLW" "Palau" "Palau Islands" "Ongael" 134.380314 7.257438 4.8
+70964 "Polynesia-Micronesia" "PLW" "Palau" "Palau Islands" "Ulong" 134.292373 7.280025 1.57
+70989 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" "Uman" 151.880333 7.301166 4.29
+71006 "Polynesia-Micronesia" "PLW" "Palau" "Palau Islands" "Ngeruktabel" 134.410749 7.26289 22.45
+71024 "Polynesia-Micronesia" "PLW" "Palau" "Palau Islands" "Koror" 134.484483 7.330251 19.6
+71025 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" "Pulau Balambangan" 116.940721 7.273264 111.18
+71032 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" "Fanapanges" 151.666553 7.354661 1.89
+71034 "Polynesia-Micronesia" "PLW" "Palau" "Palau Islands" "Ngerekebesang" 134.450275 7.354506 2.8
+71036 "Sundaland" "MYS" "Malaysia" "Malay Archipelago" "Pulau Banggi" 117.166913 7.254005 438
+71046 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" "Parem" 151.790093 7.360803 1.47
+71051 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" "Fefan" 151.839179 7.345338 12.87
+71059 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bongo Island" 124.041314 7.334673 21.75
+71071 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" "Dublon" 151.877681 7.377006 9.68
+71072 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" "Tol" 151.60483 7.353205 35.57
+71074 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" "Fanumo" 151.717994 7.37993 5.24
+71092 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Olutanga Island" 122.864199 7.366931 194.02
+71102 "Polynesia-Micronesia" "FSM" "Micronesia" "Caroline Islands" "Weno" 151.859274 7.442763 20.37
+71218 "Polynesia-Micronesia" "PLW" "Palau" "Palau Islands" "Babeldaob" 134.565163 7.499321 370.84
+71239 "Philippines" "PHL" "Philippines" "Malay Archipelago" NA 122.773164 7.759916 3.92
+71344 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Balabac Island" 117.021022 7.946864 319.5
+71375 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Ramos Island" 117.026813 8.099602 32.22
+71398 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Mantangule Island" 117.169671 8.164513 21.63
+71443 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bancalan Island" 117.101137 8.229258 16.27
+71477 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Mawes Island" 126.397343 8.304622 1.76
+71490 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bugsuk Island" 117.306435 8.255547 122.93
+71497 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Pandanan Island" 117.216575 8.287841 40.57
+71528 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Mahaba Island" 126.390617 8.398721 1.8
+71595 "Indo-Burma" "VNM" "Vietnam" NA "Hon Troc" 106.56657 8.697381 1.43
+71614 "Indo-Burma" "VNM" "Vietnam" NA "Con Dao" 106.60501 8.694988 66.17
+71780 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Camiguin Island" 124.717723 9.171867 244.06
+71795 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Siquijor Island" 123.588416 9.185077 320.94
+71856 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Ludguron Island" 125.92973 9.411147 2.02
+71863 "Philippines" "PHL" "Philippines" "Malay Archipelago" "General Island" 126.009921 9.417999 5.59
+71882 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Pamilacan Island" 123.923831 9.493139 1.45
+71933 "Indo-Burma" "THA" "Thailand" NA "Ko Samui" 99.993597 9.504803 237.17
+71946 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Anajauan Island" 126.137988 9.60912 1.16
+71954 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Lajanosa Island" 126.177006 9.630497 1.81
+71958 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Panglao Island" 123.802783 9.594627 91.38
+71987 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Casulian Island" 126.082251 9.693793 1.47
+71993 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Mahaba Island" 125.669049 9.700249 1.68
+72003 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Masapelid Island" 125.644251 9.701345 16.08
+72008 "Philippines" "PHL" "Philippines" "Malay Archipelago" "East Bucas Island" 126.015599 9.711843 32.04
+72012 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Condona Island" 125.598957 9.717423 6.8
+72017 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cobeton Island" 125.578698 9.738506 1.72
+72018 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Daco Island" 126.163809 9.740542 1.8
+72021 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Talavera Island" 125.694754 9.744026 2.78
+72023 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Maanac Island" 125.60402 9.741809 6.5
+72028 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bucas Grande Island" 125.942666 9.656435 128.27
+72032 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Lamagon Island" 125.608028 9.75932 1.96
+72035 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bilabid Island" 125.631878 9.755199 4.57
+72050 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Yapya Island" 125.550873 9.782186 1.6
+72057 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bayagnan Island" 125.646841 9.774385 8.62
+72070 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Hinatuan Island" 125.715676 9.780066 12.98
+72083 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Douyar Island" 124.82976 7.658944 94039.23
+72133 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Lumislis Island" 124.564444 9.859351 1.21
+72147 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Meara Island" 118.783211 9.884484 1.03
+72150 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cabilao Island" 123.772464 9.879374 7.52
+72151 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Tona Island" 125.947347 9.870227 12.93
+72152 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Badian Island" 123.378907 9.883496 2.09
+72165 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Pangangan Island" 123.830905 9.899342 7.16
+72166 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Hanigad Island" 125.586853 9.889078 14.3
+72174 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Nonoc Island" 125.625379 9.85397 61.62
+72178 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Kangbangyo Island" 125.900139 9.906873 3.29
+72185 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Hikdop Island" 125.527599 9.884029 10.24
+72218 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Fondeado Island" 118.924586 9.933452 1.74
+72234 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Poneas Island" 125.948905 9.912293 20.68
+72236 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Limasawa Island" 125.071605 9.930553 7.04
+72254 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Capaquian Island" 125.547285 9.976367 2.66
+72274 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Sibanac Island" 125.503798 10.001288 2.53
+72283 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Unib Island" 125.52284 10.016386 4.13
+72318 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Siargao Island" 126.054181 9.873549 430.29
+72404 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Lapinig Island" 124.565517 10.10271 46.27
+72435 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bohol" 124.203517 9.853937 3783.7
+72445 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Handayan Island" 124.176816 10.166693 4.78
+72455 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Jao Island" 124.371178 10.173479 5.39
+72473 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Mahanay Island" 124.230218 10.191358 10.45
+72480 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Banacon Island" 124.166737 10.200081 5.47
+72541 "Philippines" "PHL" "Philippines" "Malay Archipelago" NA 123.927414 10.268458 1.06
+72554 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Olango Island" 124.053791 10.263246 11.84
+72582 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Mactan Island" 123.974201 10.291674 57.46
+72616 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Guiuanon Island" 122.60984 10.392617 2.86
+72636 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Panobolon Island" 122.576709 10.406955 3.28
+72668 "Indo-Burma" "VNM" "Vietnam" NA "Dao Phu Quoc" 103.991133 10.274726 561.72
+72682 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Hibuson Island" 125.48374 10.442457 10.52
+72697 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Gnat Island" 125.604902 10.168625 782.15
+72703 "Philippines" "PHL" "Philippines" "Malay Archipelago" "San Pedro Island" 125.225791 10.461648 1.53
+72704 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Inampulungan Island" 122.702607 10.459097 10
+72706 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Refugio Island" 123.434625 10.458696 4.89
+72742 "Indo-Burma" "KHM" "Cambodia" NA "Kaoh Thmei" 103.769085 10.483548 40.07
+72787 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Boayan Island" 119.149108 10.5721 14.97
+72803 "Indo-Burma" "KHM" "Cambodia" NA "Kaoh Rung Samloem" 103.306289 10.587232 25.09
+72819 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Dumaran Island" 119.862235 10.540394 330.52
+72851 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Pacijan Island" 124.391223 10.657523 197.39
+72867 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Guimaras Island" 122.612243 10.572947 583.19
+72877 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Suluan Island" 125.956248 10.762785 4.97
+72879 "Indo-Burma" "KHM" "Cambodia" NA "Kaoh Rung" 103.245831 10.72238 79.54
+72892 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Ponson Island" 124.530462 10.770419 34.75
+72898 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Homonhon Island" 125.729143 10.747111 105.19
+72964 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cuyo Island" 121.041983 10.846143 58.55
+72982 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Candulo Island" 125.836366 10.924471 1.06
+72993 "Philippines" "PHL" "Philippines" "Malay Archipelago" NA 123.506808 10.933438 1.38
+73020 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Malocaboc Island" 123.563214 10.959219 3.05
+73046 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Negros" 123.005443 10.028231 12796.25
+73048 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Manicani Island" 125.636679 10.9916 11.85
+73059 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Tuluran Island" 119.284163 10.987277 21.94
+73065 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Calicoan Island" 125.798232 10.988994 18.38
+73090 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Tubabao Island" 125.692672 11.046499 6.25
+73091 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Lipayran Island" 123.627785 11.052966 1.59
+73123 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Doong Island" 123.64489 11.079767 4.07
+73132 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Lagen Island" 119.398331 11.087237 3.11
+73133 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Maytiguid Island" 119.600089 11.050863 49.36
+73148 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Botic Island" 125.673337 11.103018 3.49
+73205 "Philippines" "PHL" "Philippines" "Malay Archipelago" NA 125.018953 11.13769 1.01
+73216 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Tagubanhan Island" 123.126738 11.130324 14.48
+73241 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Jibitnil Island" 123.921385 11.184727 2.33
+73242 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Batas Island" 119.590946 11.167177 32.02
+73261 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Hilantagaan Island" 123.819706 11.203234 4.28
+73270 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Igbon Island" 123.173116 11.208926 7.69
+73284 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cadlao Island" 119.358772 11.218505 9.96
+73288 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Malangabang Island" 123.208456 11.241647 2.33
+73300 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Tago Island" 123.133275 11.240944 6.08
+73303 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Jinamoc Island" 125.077883 11.261685 1.47
+73315 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cebu" 123.717321 10.312982 4427.18
+73321 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bantayan Island" 123.742187 11.208517 115.72
+73332 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Pan De Azucar Island" 123.166657 11.283724 16.84
+73340 "Indo-Burma" "MMR" "Myanmar" "Mergui Archipelago" "Ale-man Kyun" 98.539482 11.293451 10.82
+73341 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Iloc Island" 119.675712 11.295711 16
+73350 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Malapascua Island" 124.115585 11.336593 1.82
+73359 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Guintacan Island" 123.892905 11.323686 9.18
+73430 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bacol Island" 124.964686 11.406116 6.18
+73434 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Palawan" 118.559402 9.73205 11456.92
+73491 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Sicogon Island" 123.259129 11.445542 11.22
+73514 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Batbatan Island" 121.911789 11.471301 4.86
+73527 "Philippines" "PHL" "Philippines" "Malay Archipelago" NA 123.18806 11.485087 1.75
+73545 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Calagnaan Island" 123.217298 11.484401 21.16
+73552 "Philippines" "PHL" "Philippines" "Malay Archipelago" NA 123.129763 11.503727 1.2
+73553 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Linapacan Island" 119.807602 11.44694 104.75
+73555 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Carnasa Island" 124.097999 11.51423 2.07
+73570 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Binuluangan Island" 123.177652 11.516304 9.26
+73593 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Leyte" 124.822851 10.818548 7224.16
+73610 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Gigatangan Island" 124.264812 11.569666 4.59
+73617 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Nabunut Island" 123.210197 11.587282 1.56
+73620 "Philippines" "PHL" "Philippines" "Malay Archipelago" "South Gigante Island" 123.337903 11.587966 5.92
+73627 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Maniquin Island" 121.69346 11.600813 1.31
+73630 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Guintarcan Island" 124.889538 11.594808 4.04
+73653 "Philippines" "PHL" "Philippines" "Malay Archipelago" "North Gigante Island" 123.349169 11.624451 4.78
+73667 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Pinamucan Island" 122.440776 11.626035 3.09
+73704 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Biliran Island" 124.4839 11.585596 499.62
+73708 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Buad Island" 124.856403 11.660749 36.15
+73711 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Majaba Island" 124.877841 11.706416 1.14
+73724 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Daram Island" 124.780907 11.62288 98.58
+73731 "Philippines" "PHL" "Philippines" "Malay Archipelago" NA 122.370011 11.727132 1.06
+73735 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Parasan Island" 124.761171 11.717277 9.3
+73738 "Philippines" "PHL" "Philippines" "Malay Archipelago" NA 122.313108 11.737308 1.2
+73765 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bulalacao Island" 120.159753 11.757404 8.9
+73768 "Philippines" "PHL" "Philippines" "Malay Archipelago" NA 120.186907 11.767311 4.96
+73803 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Buri Island" 124.831215 11.806148 2.72
+73804 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Maripipi Island" 124.323369 11.788935 29.31
+73809 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Guinauayan Island" 123.909982 11.813235 1.31
+73825 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Timpasan Island" 124.686222 11.81369 2.8
+73831 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Canahauan Dacu Island" 124.697805 11.828645 2.44
+73842 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Tambon Island" 120.094028 11.831396 9.57
+73857 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Jintotolo Island" 123.128413 11.849393 5.49
+73859 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Catalaban Island" 125.465671 11.856338 3.06
+73866 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Sibay Island" 121.473314 11.847607 42.27
+73876 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bugtong Island" 124.08837 11.874842 1.74
+73889 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Naro Island" 123.667266 11.889072 5.79
+73899 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Chico Island" 123.604476 11.911485 1.11
+73902 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Libucan East Island" 124.648449 11.905465 4.99
+73912 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Limbangcavayan Island" 124.441305 11.904596 21.27
+73923 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Panay" 122.44098 11.189251 11486.43
+73930 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Goyam Island" 124.733403 11.936897 2.89
+73937 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Kirikite Island" 124.368512 11.945199 1.83
+73941 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bangon Island" 124.707581 11.950589 1.63
+73946 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Caluya Island" 121.559125 11.922918 24.74
+73947 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Almagro Island" 124.306906 11.926621 23.22
+73959 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Marily Island" 119.998556 11.955032 7.99
+73968 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Culion Island" 119.967654 11.827791 394.12
+73972 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Caprangasan Island" 124.70069 11.96872 5.27
+73985 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Coron Island" 120.246611 11.911195 89.14
+73990 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Sibaton Island" 121.560669 11.981302 1.65
+73991 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Camandag Island" 124.419888 11.973917 9.55
+73995 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Uson Island" 120.165828 11.979291 11.86
+74002 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Boracay Island" 121.925517 11.970751 10.44
+74061 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Hilaban Island" 125.563738 12.052032 2.01
+74076 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Tagapul-an Island" 124.189936 12.061455 28.94
+74084 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Carabao Island" 121.937507 12.064027 28.55
+74093 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Sibolon Island" 121.57756 12.101994 1.8
+74099 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Semirara Island" 121.385929 12.050495 59.46
+74101 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Tubabao Island" 125.559744 12.10925 2.03
+74124 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cabahan Island" 122.038825 12.146187 1.11
+74167 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Carogo Island" 123.249246 12.176833 2.29
+74179 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Buri Island" 121.019942 12.196349 1.36
+74183 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Libagao Island" 121.43004 12.200805 1.22
+74215 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Ambulong Island" 121.017146 12.21629 8.39
+74242 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Deagan Island" 123.857305 12.241961 2.88
+74262 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Tambaron Island" 121.378805 12.273206 2.15
+74272 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Destacado Island" 124.101365 12.275933 6.05
+74281 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Ilin Island" 121.07819 12.232426 75.36
+74317 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Busuanga Island" 120.082111 12.118553 954.76
+74319 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Matabao Island" 123.803708 12.322184 1.38
+74331 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Manadi Island" 121.101349 12.340031 1.58
+74342 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Aguada Island" 124.052251 12.347607 3.36
+74344 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Darsena Island" 124.034509 12.352195 1.41
+74352 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Rasa Island" 124.012832 12.367412 1.02
+74360 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Buyayao Island" 121.451978 12.37388 2.63
+74361 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Napayawan Island" 123.24075 12.368075 4.01
+74365 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Escarpada Island" 124.069457 12.372607 3.36
+74391 "Philippines" "PHL" "Philippines" "Malay Archipelago" "San Andres Island" 124.015253 12.393812 3.66
+74414 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Dalupirit Island" 124.262849 12.410115 28.79
+74429 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Capul Island" 124.162348 12.428152 34.5
+74440 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Sibuyan Island" 122.576283 12.407967 452.41
+74464 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Calintaan Island" 124.09973 12.535656 3.15
+74466 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Small Cabaun Island" 124.49129 12.546506 1.11
+74487 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Gilbert Island" 124.434613 12.555403 11.69
+74494 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cabaongon Island" 124.498446 12.562097 10.64
+74496 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bani Island" 124.369486 12.576293 7.03
+74500 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Masbate" 123.597628 12.180535 3213.88
+74501 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Lugbung Island" 122.246463 12.591431 1.23
+74503 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Binay Island" 125.14255 12.593903 1.95
+74515 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Tingyao Island" 124.438696 12.61745 1.47
+74516 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Maravilla Island" 124.358742 12.609663 1.96
+74517 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Romblon Island" 122.289032 12.541817 83.33
+74522 "Philippines" "PHL" "Philippines" "Malay Archipelago" "San Juan Island" 124.379554 12.601283 10.34
+74524 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Alad Island" 122.252743 12.622219 3.31
+74535 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Samar" 125.053932 11.93769 12480.1
+74539 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Pangdan Island" 124.424103 12.634239 2.05
+74554 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cahayagan Island" 125.001113 12.652188 4.42
+74559 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Magesang Island" 124.422221 12.660096 1.57
+74560 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cobrador Island" 122.238997 12.66059 3.04
+74561 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Tablas Island" 122.039667 12.407416 677.85
+74562 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Talisay Island" 124.408233 12.666231 2.92
+74568 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Batag Island" 125.057609 12.643202 34.14
+74575 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Ticao Island" 123.696323 12.53295 326.17
+74577 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Biri Island" 124.376953 12.667838 14.89
+74616 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Simara Island" 122.054743 12.805712 21.12
+74617 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Bagatao Island" 123.810876 12.829561 5.06
+74628 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Sablayan Island" 123.89168 12.87728 3.14
+74645 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Maestre De Campo Island" 121.708959 12.925441 21.22
+74649 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Banton Island" 122.069948 12.938495 29.28
+74659 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Isabel Island" 121.928078 13.022669 1.22
+74660 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Carlota Island" 121.889628 13.027301 1.3
+74676 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Busing Island" 122.964653 13.142508 5.29
+74677 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Dampalif Island" 123.110492 12.976687 420.37
+74682 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Templo Island" 122.876214 13.152716 4.48
+74694 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Rapu Rapu Island" 124.151862 13.202133 65.64
+74699 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Gaspar Island" 121.859996 13.248977 1.36
+74704 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Batan Island" 123.998821 13.255722 91.73
+74707 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Guininyan Island" 123.96267 13.300699 1.32
+74708 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cabulauan Island" 123.937813 13.312985 3.05
+74711 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cagraray Island" 123.878741 13.296411 71.09
+74712 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Alibijaban Island" 122.718819 13.342566 4.7
+74717 "Philippines" "PHL" "Philippines" "Malay Archipelago" "San Miguel Island" 123.809105 13.37505 22.26
+74719 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Salomague Island" 122.133933 13.410172 5.54
+74729 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Santa Cruz Island" 122.07961 13.508345 6.97
+74730 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Mompong Island" 122.178719 13.515732 3.83
+74732 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Mindoro" 121.066657 12.956766 9798.8
+74733 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Medio Island" 120.953877 13.524368 1.04
+74736 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Maniuaya Island" 122.123194 13.528446 3.88
+74742 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Marinduque Island" 121.969236 13.389792 904.93
+74743 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Verde Island" 121.075897 13.550526 17.21
+74744 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Atulayan Island" 123.570557 13.584805 1.33
+74754 "Polynesia-Micronesia" "GUM" "Guam" "Mariana Islands" "Guam" 144.777038 13.443537 549.41
+74758 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Golo Island" 120.376726 13.6523 21.93
+74761 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Maricaban Island" 120.892359 13.647464 32.91
+74779 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Saboon Island" 122.734906 13.779517 1.01
+74791 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Ambil Island" 120.301572 13.80446 29.53
+74793 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Haponan Island" 123.847599 13.83549 1.24
+74798 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Lubang Island" 120.183411 13.781768 195.94
+74809 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Balinbagan Island" 123.848574 13.869382 1.9
+74814 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Quinabugan Island" 123.787774 13.878513 1.49
+74829 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Malabungut Island" 123.589436 13.92474 1.68
+74834 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Pagbilao Grande Island" 121.76848 13.912642 27.5
+74848 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Basot Island" 123.861649 13.957699 1.68
+74857 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Lahuy Island" 123.826387 13.935021 18.66
+74858 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Quinalasag Island" 123.636976 13.9402 33.88
+74861 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Panay Island" 124.330303 13.959632 11.8
+74862 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Sibauan Island" 123.519992 13.98007 1.46
+74866 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Tagita Island" 123.570035 13.963831 6.51
+74878 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Porongpong Island" 124.043107 14.024509 2.49
+74879 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Caringo Island" 123.104956 14.03932 2.41
+74887 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Canron Island" 123.107366 14.081199 1.54
+74890 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Catanduanes Island" 124.23644 13.781429 1455.08
+74894 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Butauanan Island" 123.311013 14.112702 7.72
+74895 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Canimog Island" 123.062696 14.117796 3.59
+74908 "Polynesia-Micronesia" "MNP" "Northern Mariana Islands" "Mariana Islands" "Rota" 145.214092 14.157435 89.69
+74913 "Philippines" "PHL" "Philippines" "Malay Archipelago" NA 122.921544 14.203975 2.5
+74915 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Alabat Island" 122.047103 14.110029 191.44
+74925 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cabalete Island" 121.825389 14.282846 17.68
+74937 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Corregidor Island" 120.58251 14.384721 5.97
+74941 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Maculabo Island" 122.812098 14.401558 3.45
+74946 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Guintinua Island" 122.950038 14.421448 6.72
+74950 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Balesin Island" 122.035693 14.426666 4.39
+74963 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Tinaga Island" 122.932761 14.46573 12.33
+74975 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Jomalig Island" 122.376336 14.700431 52.03
+74995 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Patnanongan Island" 122.185675 14.795371 95.61
+75004 "Polynesia-Micronesia" "MNP" "Northern Mariana Islands" "Mariana Islands" "Aguijan Island" 145.558807 14.852452 7.55
+75008 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Palasan Island" 122.044401 14.858792 16.85
+75015 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cabalao Island" 122.01337 14.898753 1.94
+75017 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Kalotkot Island" 122.148389 14.905601 3.26
+75029 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Kalongkooan Island" 122.152665 14.937229 3.25
+75035 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Polillo Island" 121.9386 14.872188 654.16
+75038 "Polynesia-Micronesia" "MNP" "Northern Mariana Islands" "Mariana Islands" "Tinian Island" 145.631566 15.013351 103.63
+75050 "Polynesia-Micronesia" "MNP" "Northern Mariana Islands" "Mariana Islands" "Saipan Island" 145.753963 15.189129 122.54
+75054 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Matalvis Island" 119.927085 15.486752 1.56
+75095 "Polynesia-Micronesia" "MNP" "Northern Mariana Islands" "Mariana Islands" "Farallon de Medinilla" 146.059027 16.018221 1.2
+75110 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cabalitian Island" 120.11674 16.115036 1.74
+75156 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Cabarruyan Island" 119.977374 16.290492 72.32
+75166 "Polynesia-Micronesia" "MNP" "Northern Mariana Islands" "Mariana Islands" "Anatahan Island" 145.676876 16.352246 35.13
+75221 "Polynesia-Micronesia" "MNP" "Northern Mariana Islands" "Mariana Islands" "Sarigan Island" 145.779159 16.70451 5.11
+75268 "Polynesia-Micronesia" "MNP" "Northern Mariana Islands" "Mariana Islands" "Guguan Island" 145.841331 17.309782 4.58
+75272 "Philippines" "PHL" "Philippines" "Malay Archipelago" NA 120.401519 17.508639 1.29
+75277 "Polynesia-Micronesia" "MNP" "Northern Mariana Islands" "Mariana Islands" "Mariana Islands" 145.832867 17.599608 13.86
+75290 "Polynesia-Micronesia" "MNP" "Northern Mariana Islands" "Mariana Islands" "Pagan Island" 145.766701 18.116355 48.04
+75308 "Philippines" "PHL" "Philippines" "Malay Archipelago" NA 121.425448 18.46619 2.4
+75310 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Palaui Island" 122.134621 18.546556 27.13
+75315 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Luzon" 121.42198 15.947613 104973.97
+75323 "Polynesia-Micronesia" "MNP" "Northern Mariana Islands" "Mariana Islands" "Agrihan" 145.668424 18.772208 46.9
+75324 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Barit Island" 121.253066 18.864093 4.68
+75327 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Fuga Island" 121.375244 18.870353 97.66
+75330 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Camiguin Island" 121.903783 18.921776 171.34
+75336 "Philippines" "PHL" "Philippines" "Malay Archipelago" "Dalupiri Island" 121.224664 19.088763 66.42
+75353 "Indo-Burma" "CHN" "China" "Hainan" "Hainan Dao" 109.745579 19.195738 34042.9
+75380 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" "Big South Cape Island" 167.407963 -47.240917 9.93
+75387 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" "Putauhina Island" 167.386818 -47.2163 1.67
+75389 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" "Noble Island" 167.661208 -47.21515 1.75
+75448 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" "Codfish Island" 167.631191 -46.773271 16.08
+75454 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" "Stewart Island" 167.857856 -46.987336 1701.13
+75652 "Tasmania and New Zealand Islands" "AUS" "Australia" "Tasmania" NA 147.014079 -43.100585 3.23
+75653 "Tasmania and New Zealand Islands" "AUS" "Australia" "Tasmania" "Woody Island" 147.294835 -43.329138 360.92
+75789 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" "Kapiti Island" 174.910717 -40.855542 20.23
+75822 "Tasmania and New Zealand Islands" "AUS" "Australia" "Tasmania" "Tasmania" 146.591468 -42.021189 64363.4
+75825 "Tasmania and New Zealand Islands" "AUS" "Australia" "Tasmania" "Robbins Island" 144.947475 -40.691297 104.55
+75843 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" "South Island" 170.480865 -43.985413 150576.24
+75845 "Tasmania and New Zealand Islands" "AUS" "Australia" "Tasmania" "Passage Island" 148.3409 -40.506344 3.17
+75866 "Tasmania and New Zealand Islands" "AUS" "Australia" "Tasmania" "Cape Barren Island" 148.241195 -40.396582 471.39
+75906 "Tasmania and New Zealand Islands" "AUS" "Australia" "Tasmania" "Flinders Island" 148.065546 -40.009283 1349.57
+75912 "Tasmania and New Zealand Islands" "AUS" "Australia" "Tasmania" "King Island" 143.984974 -39.86447 1107.18
+76027 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" NA 174.886486 -38.07499 1.34
+76033 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" NA 177.119182 -38.00153 1.04
+76064 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" "Motuhoa" 176.070777 -37.640866 1.24
+76070 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" "Rangiwaea Island" 176.11172 -37.625592 4.72
+76072 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" NA 176.011148 -37.578515 1.97
+76085 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" "Matakana Island" 176.057296 -37.563083 62.47
+76112 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" "Weeks Island" 174.745074 -36.965263 2.39
+76144 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" NA 175.445711 -36.783214 3.51
+76237 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" "Little Barrier Island" 175.083155 -36.201363 31.56
+76259 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" "Great Barrier Island" 175.42322 -36.199885 287.82
+76597 "Tasmania and New Zealand Islands" "NZL" "New Zealand" "New Zealand" "North Island" 175.7049 -38.561335 114253.63
+77353 "New Caledonia" "NCL" "New Caledonia" "New Caledonia" "Ile des Pins" 167.475909 -22.607196 145.43
+77618 "New Caledonia" "NCL" "New Caledonia" "New Caledonia" "Ile Lebris" 165.760571 -21.817618 2.29
+77720 "New Caledonia" "NCL" "New Caledonia" "New Caledonia" "Mare" 167.973461 -21.517013 658.94
+77874 "New Caledonia" "NCL" "New Caledonia" "New Caledonia" "Lifou" 167.233031 -20.943242 1145.45
+78065 "New Caledonia" "NCL" "New Caledonia" "New Caledonia" "Ouvea" 166.577649 -20.557896 133.08
+78117 "New Caledonia" "NCL" "New Caledonia" "New Caledonia" "Ile Boh" 164.092326 -20.319494 2.97
+78151 "New Caledonia" "NCL" "New Caledonia" "New Caledonia" "Ile Pam" 164.28707 -20.240498 6.22
+78173 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Anatom" 169.821691 -20.190763 162.95
+78193 "New Caledonia" "NCL" "New Caledonia" "New Caledonia" "Nouvelle-Caledonie" 165.488532 -21.32617 16407.79
+78286 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Tanna" 169.347432 -19.497358 568.17
+78294 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Matanuku Island" 178.10403 -19.168501 2.85
+78302 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Ngaloa Island" 178.183221 -19.078972 3.72
+78313 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Matava Island" 178.229696 -19.04123 449.61
+78337 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Erromango" 169.144577 -18.813174 903.2
+78340 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Moala Island" 179.888399 -18.600167 67.07
+78427 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Nairai Island" 179.41348 -17.808005 26.17
+78448 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Moturiki Island" 178.74632 -17.758587 16.99
+78472 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Ovalau Island" 178.78826 -17.680909 107.24
+78498 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Efate" 168.389324 -17.677363 902.98
+78511 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Emao Island" 168.488413 -17.480915 8.08
+78526 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Nguna Island" 168.353727 -17.450204 28.45
+78542 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Kuata Island" 177.137444 -17.371246 1.6
+78561 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Viti Levu" 177.965346 -17.836091 10693.22
+78583 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Waya Island" 177.125633 -17.290314 23.06
+78640 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Naviti Island" 177.243047 -17.111715 36.08
+78645 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Emae" 168.379926 -17.064953 33.58
+78695 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Tongoa" 168.55889 -16.899503 40.42
+78721 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" NA 179.956647 -16.926998 148.28
+78742 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Yasawa Island" 177.511188 -16.78437 34.26
+78770 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Epi" 168.256113 -16.726328 446.11
+78803 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Lopevi" 168.337659 -16.506894 36.75
+78909 "Polynesia-Micronesia" "FJI" "Fiji" "Fiji Islands" "Vanua Levu" 179.241588 -16.602517 5753.54
+78917 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Ambrym" 168.122293 -16.258192 677.31
+78968 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Malakula" 167.477601 -16.26531 2058.14
+79034 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Malo" 167.174297 -15.681634 184.47
+79072 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Aore" 167.180312 -15.579397 59.08
+79093 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Pentecost" 168.193241 -15.7582 497.19
+79206 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Aoba" 167.833244 -15.383547 405.81
+79314 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Lathu" 167.127333 -15.104779 1.9
+79619 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Maewo" 168.119055 -15.150762 309.71
+79783 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Espiritu Santo" 166.872853 -15.241205 3954.37
+79909 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Mere Lava" 168.043208 -14.459562 18.42
+80030 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Santa Maria" 167.511883 -14.28617 310.62
+80142 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Mota" 167.694936 -13.846437 10.6
+80151 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Ravenga" 167.552483 -13.787708 1.13
+80166 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Vanua Lava" 167.468579 -13.82802 340.67
+80200 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Mota Lava" 167.674756 -13.673961 34.32
+80225 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Toga" 166.693725 -13.417632 19.57
+80239 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Tegua" 166.625844 -13.244682 32.83
+80245 "East Melanesian Islands" "VUT" "Vanuatu" "New Hebrides" "Ile Lonagavanoua" 166.567084 -13.13455 48.12
+80318 "Polynesia-Micronesia" "FJI" "Fiji" NA "Rotuma Island" 177.08184 -12.503692 45.61
+80330 "East Melanesian Islands" "SLB" "Solomon Islands" "New Hebrides" "Tikopia" 168.829863 -12.295431 6.23
+80571 "East Melanesian Islands" "SLB" "Solomon Islands" "New Hebrides" "Vanikolo" 166.884133 -11.654172 180.92
+80609 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Rennell Island" 160.27457 -11.660136 834.97
+80624 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Tagula Island" 153.474169 -11.505908 812.84
+80636 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Rossel Island" 154.146732 -11.362132 296.84
+80660 "East Melanesian Islands" "SLB" "Solomon Islands" "New Hebrides" "Utupua" 166.525632 -11.260288 75.61
+80767 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Dana" 122.867269 -10.98604 15.28
+80860 "East Melanesian Islands" "SLB" "Solomon Islands" "New Hebrides" "Tomotu Noi" 166.059041 -10.807204 19.72
+80943 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Deboyne Island" 152.374669 -10.688839 30.67
+80951 "East Melanesian Islands" "SLB" "Solomon Islands" "New Hebrides" "Tomotu Neo" 165.806463 -10.678238 15.27
+80952 "East Melanesian Islands" "SLB" "Solomon Islands" "New Hebrides" "Nendo" 165.938141 -10.73697 530.91
+80970 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Rogeia Island" 150.645934 -10.637387 9.33
+80975 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Misima Island" 152.722944 -10.662054 215.85
+80987 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Raijua" 121.577847 -10.618797 38.71
+81004 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Rocky Islet" 150.993984 -10.624133 106.29
+81007 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Sariba Island" 150.717999 -10.606595 23.92
+81018 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Ito Island" 150.761507 -10.567256 3.81
+81032 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Sideia Island" 150.846537 -10.592435 97.62
+81041 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Marau Island" 161.503733 -10.526172 4.99
+81055 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Roti" 123.134383 -10.720176 1259.33
+81059 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sawu" 121.869738 -10.527826 422.34
+81061 "Sundaland" "CXR" "Christmas Island" NA "Christmas Island" 105.636553 -10.485344 139.61
+81140 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Malaupaina Island" 161.969891 -10.249172 6.37
+81147 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Uki Island" 161.735322 -10.25362 43.98
+81155 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "San Cristobal" 161.81301 -10.553912 3084.56
+81163 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Malaulalo Island" 161.946284 -10.186064 3.34
+81170 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Ali'ite Island" 161.925199 -10.13932 2.91
+81173 "Papua New Guinea" "AUS" "Australia" "Great Barrier Reef Islands" "Moa Island" 142.265227 -10.182985 172.17
+81175 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Semau" 123.394139 -10.228771 225.61
+81263 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Wahere Island" 160.814121 -9.822988 3.39
+81271 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Marapa Island" 160.866182 -9.815449 7.99
+81296 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Normanby Island" 151.051527 -9.98486 898.49
+81323 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Alcester Island" 152.440012 -9.556591 5.41
+81336 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Marauni'ao Island" 161.28056 -9.516046 1.17
+81343 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Tarairiu Island" 161.255408 -9.49736 1.21
+81349 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Maroria Island" 161.23834 -9.470317 1.86
+81356 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Haidana Island" 147.0363 -9.444467 2.14
+81369 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Komusupa Island" 161.21661 -9.432869 1.7
+81385 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Hokaiwai Island" 161.174762 -9.388754 1.58
+81394 "Papua New Guinea" "AUSPN" "Australia; Papua New Guinea" "Malay Archipelago" "Saibai Island" 142.69048 -9.396038 105.73
+81410 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Fergusson Island" 150.666447 -9.527423 1329.66
+81430 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sumba" 119.961652 -9.762654 10922.61
+81441 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Guadalcanal Island" 160.160271 -9.62279 5369.48
+81452 "Papua New Guinea" "AUSPN" "Australia; Papua New Guinea" "Malay Archipelago" "Boigu Island" 142.216104 -9.264897 73.07
+81466 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Goodenough Island" 150.24241 -9.347841 706.09
+81474 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Anuta Paina Island" 161.263226 -9.166859 1.87
+81479 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Laumuan" 159.364197 -9.142346 1.34
+81481 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Alokan Island" 159.12395 -9.148044 8.17
+81482 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Taina" 159.14265 -9.138197 1.29
+81491 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Moe" 159.288722 -9.12446 1.6
+81499 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Loun Island" 159.244508 -9.11678 5.42
+81500 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Savo Island" 159.811895 -9.131385 30.11
+81501 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Hoi Island" 159.155894 -9.112013 2.08
+81505 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Talina" 159.263663 -9.10569 2.27
+81509 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Tulaghi" 160.145855 -9.102007 2.08
+81517 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Ufaon" 159.24766 -9.069071 1.37
+81518 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Nggela Pile" 160.320419 -9.140087 127.9
+81520 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Faila" 159.257452 -9.057062 2.18
+81521 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" NA 159.193576 -9.050135 1.81
+81527 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Mbanika Island" 159.196518 -9.095386 48.72
+81535 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Mane" 159.03512 -9.025444 3.02
+81542 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Pavuvu Island" 159.110485 -9.063937 129.19
+81546 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Nggela Sule" 160.20018 -9.064953 219.84
+81548 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Leru" 159.052831 -8.997151 2.53
+81555 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Marulaon" 159.089841 -8.986519 3.77
+81561 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Parama Island" 143.415923 -9.002479 38.16
+81565 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Kwaro Island" 160.748782 -8.96178 1.14
+81568 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Mbokonumbeta Island" 160.082974 -8.984221 27.07
+81571 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Muyua Island" 152.754653 -9.111502 903.36
+81616 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Vakuta Island" 151.166922 -8.851979 21.16
+81664 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Hotuanivena Island" 158.105385 -8.743825 7.57
+81698 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Mibu Island" 143.44518 -8.736569 18.42
+81713 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Tetepare Island" 157.5575 -8.743398 126.66
+81740 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Nggatokae Island" 158.18004 -8.776316 96.88
+81742 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Nusa Penida" 115.541476 -8.738766 196.37
+81746 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Dawari Island" 143.381222 -8.694425 8.16
+81767 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Moroge Island" 143.389046 -8.66531 10.14
+81795 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Runja Island" 157.804306 -8.653528 1.63
+81800 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Padar" 119.576377 -8.655271 15.02
+81823 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Raki" 117.982977 -8.650909 25.13
+81834 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Rinja" 119.689057 -8.701673 212.94
+81865 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Sanihulumu Island" 158.181912 -8.6235 3.41
+81870 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Njapuana Island" 158.188804 -8.589842 1.41
+81898 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Bomapau Island" 151.097237 -8.585665 4.68
+81924 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Tengar" 117.786736 -8.55511 1.94
+81941 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Njapuchanjomo Island" 158.156254 -8.565652 1.23
+81966 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Dubuwaro Island" 143.310128 -8.564906 24.38
+81979 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Vangunu Island" 157.995318 -8.640606 520.09
+82005 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Porepore Island" 158.171241 -8.538753 3.32
+82006 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Marovo Island" 157.997826 -8.511974 6.93
+82046 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Ngali" 117.733463 -8.526222 30.74
+82052 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Magabu Island" 143.212013 -8.479594 3.7
+82056 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Matiu Island" 158.140484 -8.484379 1.79
+82075 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 143.31325 -8.459218 1.65
+82078 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Nikira Island" 143.17568 -8.481699 15.04
+82082 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Liang" 117.658449 -8.491318 24.27
+82083 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Kuragimini Island" 143.293299 -8.451725 2.39
+82088 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Nusa Barung" 113.336398 -8.478044 80.3
+82097 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Karikana Island" 158.001814 -8.45072 1.27
+82114 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sempu" 112.697207 -8.446401 10.81
+82116 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" NA 119.463068 -8.578119 330.02
+82123 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Solor" 122.99084 -8.501367 222.86
+82127 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Panjang" 116.90245 -8.437613 17.42
+82128 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Uipi Island" 157.940438 -8.424489 1.25
+82141 "Wallacea" "TLS" "East Timor" "Malay Archipelago" "Pulau Jaco" 127.324472 -8.429572 11.42
+82153 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Kiwai Island" 143.435811 -8.55252 308.51
+82159 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Sia Islet" 151.081143 -8.548455 279.88
+82166 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 143.30714 -8.416005 12.22
+82167 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Rendova Island" 157.314845 -8.544868 400.26
+82173 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" NA 119.295168 -8.430433 27
+82175 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Daura Island" 143.267775 -8.418614 20.18
+82189 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Sumogi Island" 143.027472 -8.395223 23.95
+82196 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "San Jorge Island" 159.601774 -8.460903 203.14
+82202 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Mbelombelo Island" 157.531624 -8.394283 6.65
+82215 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Rusa" 123.823053 -8.38905 14.23
+82224 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Kuriao Island" 157.892304 -8.391546 5.05
+82233 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 143.029751 -8.363038 4.2
+82248 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Marisa" 123.927473 -8.364978 14.23
+82262 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Tombatuni Island" 157.37364 -8.34226 1.07
+82273 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Nduhiri Island" 157.850471 -8.344142 1.86
+82282 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Reginimi Island" 142.909183 -8.3355 4.83
+82289 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.94094 -8.352331 16.54
+82291 "Wallacea" "IDNTL" "Indonesia; East Timor" "Malay Archipelago" "Pulau Timor" 125.11192 -9.247571 28614.47
+82295 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.369074 -8.389318 88.51
+82299 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Dogope Island" 143.082861 -8.336605 24.65
+82303 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Gebaro Island" 143.211175 -8.343074 66.46
+82304 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.954047 -8.33335 5.74
+82308 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Malaita" 160.947903 -8.918074 3749.93
+82310 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Ndume Island" 157.331389 -8.344484 7.3
+82317 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Petani Island" 157.559299 -8.335624 2.9
+82358 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Kotukuriana Island" 157.823434 -8.308437 5.52
+82367 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Ndora Island" 157.486479 -8.306857 18.78
+82376 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Rereghana Island" 157.414744 -8.302951 12.87
+82392 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Pura" 124.345923 -8.300561 28.35
+82421 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Tomba Kokorarapa Island" 157.79351 -8.264504 1.55
+82422 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.879437 -8.276143 7.28
+82429 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Simbo Island" 156.532657 -8.279331 13.9
+82439 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Adunara" 123.170141 -8.323083 514.76
+82441 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Mondomondo Island" 157.801566 -8.252923 7.41
+82442 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.650039 -8.227904 1.4
+82448 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Lombok" 116.330878 -8.577182 4552.87
+82454 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.866346 -8.242856 21.98
+82456 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Lakor" 128.160707 -8.24278 111.9
+82461 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Manogholima Island" 157.696415 -8.202601 1.6
+82472 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Hopaseghe Island" 157.706075 -8.194452 5.55
+82475 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Kura" 124.142253 -8.372133 741.41
+82476 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Kawula" 123.540912 -8.38327 1274.38
+82484 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Ramata Island" 157.651635 -8.174317 1.74
+82493 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Leti" 127.681945 -8.197728 91.55
+82494 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.703783 -8.158329 1.95
+82505 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Kohinggo Island" 157.145148 -8.208178 104.21
+82511 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Moyo" 117.558056 -8.243353 332.97
+82514 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Komoran" 138.749078 -8.288307 690.96
+82523 "Wallacea" "TLS" "East Timor" "Malay Archipelago" "Pulau Atauro" 125.577538 -8.229847 143.06
+82524 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sangeang" 119.059247 -8.195172 155.25
+82526 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Alor" 124.731708 -8.279485 2127.36
+82528 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" NA 157.624791 -8.122182 1.25
+82532 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Rovana Island" 157.638136 -8.1349 2.29
+82534 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Moa" 127.942404 -8.17701 362.8
+82546 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sumbawa" 117.858053 -8.630792 14478.93
+82547 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Selaru" 130.968548 -8.196789 351.48
+82549 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Singgo Island" 157.631785 -8.095013 2.18
+82551 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Sulei Island" 159.536732 -8.080861 3.29
+82552 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Flores" 121.143518 -8.604602 14089.05
+82553 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Bali" 115.116182 -8.35542 5387.07
+82557 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Finuana Island" 158.987307 -8.059969 1.94
+82561 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Kolohengomo Island" 157.624295 -8.061622 1.26
+82564 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Ghizo Island" 156.802798 -8.075845 36.04
+82571 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Ghurava Island" 157.612634 -8.036254 1.7
+82584 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 140.063925 -8.022705 5.9
+82591 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Liran" 125.742606 -8.010449 23.91
+82592 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" NA 125.749533 -7.975981 1.27
+82593 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "New Georgia" 157.568431 -8.263837 2074.63
+82605 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Ranongga Island" 156.566482 -8.057515 148.72
+82619 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.928553 -7.888281 1.35
+82623 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 145.376612 -7.89818 4.99
+82625 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Dai" 160.62448 -7.901786 16.69
+82632 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Kolombangara Island" 157.07267 -7.989375 693.85
+82658 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Babar" 129.724792 -7.907751 628.84
+82695 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Kaimari Island" 144.864177 -7.755589 19.13
+82710 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Paparaka Island" 158.574999 -7.721702 3.71
+82722 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Bohiana Island" 158.543541 -7.695509 1.24
+82725 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Ibibubari Island" 144.462061 -7.745814 48.45
+82735 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Nusa Sibelis" 108.898308 -7.728642 133.26
+82750 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Mbero Island" 158.541262 -7.669187 14.27
+82768 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.397654 -7.681465 81.9
+82772 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.440897 -7.647333 31.3
+82782 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.265862 -7.624553 21.52
+82783 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.231139 -7.640044 28.89
+82787 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.294163 -7.615588 12.06
+82790 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sailus-kecil" 117.4471 -7.582704 1.61
+82795 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.335559 -7.626892 43.81
+82801 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Vella Lavella Island" 156.640884 -7.73979 654.97
+82807 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Wetar" 126.302255 -7.779047 2620.69
+82809 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.410261 -7.578485 15.22
+82824 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Ini Island" 144.734187 -7.584373 48.54
+82825 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.572857 -7.574627 32.05
+82828 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Uramu Island" 144.625666 -7.596767 90.21
+82831 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.680867 -7.545954 11.09
+82836 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" NA 117.302695 -7.532757 6.74
+82847 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Santa Isabel" 159.169723 -8.019806 3813.35
+82848 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sailus-besar" 117.433865 -7.523971 4.29
+82866 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" NA 117.183334 -7.500636 2.63
+82878 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.684957 -7.505095 12.04
+82882 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Marabatuang" 117.480772 -7.489485 2.12
+82927 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.633094 -7.502409 32.04
+82941 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Barora Fa Island" 158.345328 -7.510598 76.02
+82943 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.727658 -7.483968 33.47
+82945 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Kerehikapa Island" 158.026322 -7.455682 1.25
+82948 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.575188 -7.504884 47.24
+82960 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.600523 -7.464622 20.52
+82962 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Susuku Island" 157.635074 -7.443953 4.72
+82998 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.561701 -7.432929 8.88
+83009 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Ghaghe Island" 158.240075 -7.432045 41.62
+83015 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" "Lasanga Island" 147.254091 -7.413699 11.24
+83018 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Vaghena Island" 157.768778 -7.439337 85.2
+83019 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Babuan" 131.323698 -7.402398 3.57
+83025 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.54942 -7.398052 3.12
+83039 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Rob Roy Island" 157.57536 -7.414676 68.98
+83044 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Yos Sudarso" 138.366615 -7.903901 11647.13
+83048 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Roraimboko Island" 157.299794 -7.370233 1.08
+83050 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Tampaang" 117.74658 -7.368684 1.21
+83073 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Mono Island" 155.563607 -7.364259 67.33
+83079 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Bonerate" 121.111983 -7.353326 64.71
+83093 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 139.701749 -7.261371 1.38
+83104 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Bolu" 131.464403 -7.240087 2.64
+83118 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Mam Dadi" 139.656117 -7.254522 13.54
+83125 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 139.57498 -7.218133 4.17
+83136 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Ombo Dadi" 139.75543 -7.189707 2.09
+83146 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Uwagger Dadi" 139.619484 -7.171305 5.14
+83162 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Yamdena" 131.407126 -7.587122 3268.23
+83174 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sapanjang" 115.828418 -7.164057 101.8
+83175 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 139.774307 -7.112252 1.36
+83178 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Pirumeri Island" 155.883393 -7.110622 3.83
+83180 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Magusaiai Island" 155.822278 -7.109171 13.01
+83183 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Poporang Island" 155.868544 -7.096594 5.52
+83190 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Tanahmalalla" 120.584628 -7.085822 9.32
+83199 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Enu" 134.506675 -7.079893 15.58
+83257 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Tanahjampea" 120.687189 -7.084832 160.14
+83295 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Shortland Island" 155.762268 -7.04787 215.47
+83322 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Jeh" 134.505288 -6.944304 7.18
+83332 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Mar" 134.533999 -6.91266 2.1
+83350 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Madura" 113.350164 -7.035204 4440.98
+83361 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Kultubai Selatan" 134.727182 -6.869383 7.11
+83367 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Jeudin" 134.630222 -6.874246 15.79
+83373 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Orasilam" 138.969996 -7.033631 2178
+83380 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Kangean" 115.364098 -6.905754 438.66
+83392 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Fauro Island" 156.071762 -6.912645 75.56
+83409 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.5248 -6.756311 1.45
+83413 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.531286 -6.766815 9.52
+83418 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Peucang" 105.256354 -6.738795 4.94
+83423 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Penjuring" 134.504122 -6.74013 17.81
+83436 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.485192 -6.694979 4.73
+83445 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.511422 -6.689516 13.34
+83471 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.774713 -6.727484 225.36
+83475 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.775861 -6.622418 11.95
+83477 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Babi" 134.594294 -6.613639 5.79
+83480 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Choiseul" 156.926182 -7.021703 3133.59
+83484 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Tuturjuring" 134.693171 -6.681333 166.08
+83494 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Ketamba" 134.722288 -6.558947 5.79
+83505 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Panaitan" 105.204445 -6.589843 124.39
+83508 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.218084 -6.532343 1.54
+83512 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.577433 -6.528528 8.57
+83520 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.811163 -6.520219 38.87
+83521 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.57044 -6.506113 6.11
+83531 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.485785 -6.458921 1.48
+83532 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.611686 -6.484467 27.17
+83534 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Baun" 134.701145 -6.505108 109.32
+83550 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.355221 -6.386675 1.39
+83553 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.77556 -6.396614 7.96
+83556 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Lelamtuti" 134.743697 -6.398027 17.76
+83558 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.354848 -6.359685 1.88
+83559 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.335958 -6.359283 1.37
+83582 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.535115 -6.320172 3.33
+83586 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.346331 -6.313834 1.25
+83597 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.809013 -6.32792 18.94
+83601 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.319335 -6.324489 19.04
+83606 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Ablingi Island" 150.07479 -6.298932 3.04
+83612 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.312536 -6.291605 1.13
+83613 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Penambulai" 134.849941 -6.37553 135.31
+83623 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Koba" 134.491028 -6.395503 398.68
+83632 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.439307 -6.275797 1.06
+83637 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.423853 -6.272162 3.42
+83649 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.408793 -6.255413 2.02
+83657 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.437762 -6.247516 2.87
+83658 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.363785 -6.240698 1.11
+83663 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.37213 -6.237869 2.38
+83668 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.419354 -6.243644 9.65
+83679 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.328802 -6.221768 1.87
+83681 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.216212 -6.206678 3.52
+83684 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Seja" 134.86426 -6.204279 5.06
+83698 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Trangan" 134.259842 -6.580538 2399.34
+83706 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.881111 -6.151337 3.04
+83709 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Rakata" 105.443163 -6.151698 13.02
+83716 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Nyamuk" 134.277099 -6.131589 4.68
+83746 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" NA 149.042513 -6.096646 1.21
+83752 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" NA 149.024773 -6.084555 4.76
+83754 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sertung" 105.381501 -6.091729 8.44
+83773 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Batubandera" 134.246848 -6.165578 393.31
+83781 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Kai Tanimbar" 132.44968 -6.017954 10.81
+83783 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" NA 148.872696 -5.990191 1.93
+83798 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Sabir" 134.858761 -5.957541 1.54
+83819 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Kobroor" 134.551996 -6.140299 1744.75
+83826 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.623621 -5.925382 3.93
+83847 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Jawa" 109.943978 -7.29878 126647.23
+83854 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Kumir" 134.787906 -5.889329 7.16
+83904 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Watulai" 134.787484 -5.815806 7.04
+83933 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Kumul" 134.775301 -5.792569 1.2
+83934 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Mangan" 134.750488 -5.797209 2.89
+83943 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.787063 -5.783026 2.55
+83949 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Selayar" 120.49659 -6.093741 650.9
+83960 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Wamar" 134.218832 -5.794158 48.52
+83977 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Daar" 132.784368 -5.754934 6.12
+83980 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.796511 -5.744283 8.31
+83984 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Aranlau" 134.707537 -5.768037 55.87
+83989 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Tomia" 123.944707 -5.750933 55.57
+83995 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Taam" 132.185763 -5.741676 13.66
+83997 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Bawean" 112.660711 -5.796096 206.7
+84000 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Watlus" 132.761425 -5.707846 1.44
+84005 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Lewakai" 134.338336 -5.698479 1.19
+84010 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.246039 -5.692883 1.58
+84017 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.213962 -5.694744 5.58
+84018 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.765813 -5.67963 1.35
+84022 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.313461 -5.669813 1.94
+84035 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Liukangloe" 120.431884 -5.649258 4.44
+84060 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.299882 -5.637921 85.94
+84067 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Toad" 132.723334 -5.786765 411.09
+84104 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Ujir" 134.300762 -5.601602 43.93
+84106 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Komfane" 134.646982 -5.64672 308.59
+84125 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.706732 -5.56517 3.54
+84141 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Masalembu Besar" 114.423988 -5.561531 25.04
+84144 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Wokam" 134.49133 -5.806781 1538.05
+84145 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Muha Nuhu Janat" 132.720759 -5.540892 13.69
+84151 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Kai Dulah" 132.780368 -5.616478 98.33
+84157 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.481506 -5.524439 1.43
+84166 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.503627 -5.516731 2.65
+84197 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Wasir" 134.266786 -5.513761 19.14
+84217 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Kaledupa" 123.764904 -5.535548 64.82
+84232 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Umboi Island" 147.919974 -5.634676 870.99
+84234 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Hoga" 123.770949 -5.467506 3.45
+84237 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Luangiua" 159.698026 -5.478496 2.11
+84244 "East Melanesian Islands" "SLB" "Solomon Islands" "Solomon Islands" "Ke Ila" 159.378265 -5.459491 1.06
+84246 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Kulur" 134.663326 -5.45971 3.88
+84252 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 138.15389 -5.603079 507.4
+84260 "Wallacea" "IDN" "Indonesia" "Sulawesi" NA 119.385163 -5.444088 1.85
+84266 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Buar" 134.476595 -5.444073 6.68
+84272 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Kola" 134.590584 -5.501122 295.45
+84281 "East Melanesian Islands" "PNG" "Papua New Guinea" "Solomon Islands" "Bougainville Island" 155.308815 -6.225006 8705.64
+84285 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Lafusa" 134.625445 -5.406011 1.91
+84289 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.587976 -5.399715 1.44
+84295 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Lutur" 134.662822 -5.396415 3.4
+84299 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.59691 -5.386042 1.05
+84300 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.606902 -5.396236 4.72
+84306 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Sakar Island" 148.082342 -5.408801 43.94
+84315 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.58326 -5.375222 9.89
+84325 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Ngoba" 134.518723 -5.336674 1.29
+84327 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Warilau" 134.548991 -5.367449 47.61
+84335 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Kur" 131.99305 -5.3447 37.49
+84350 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Little Island" 137.831042 -5.337071 77.55
+84352 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Enggano" 102.246912 -5.393397 397.54
+84354 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Tolokiwa Island" 147.589334 -5.313323 45.01
+84357 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Nuhu Cut" 133.045241 -5.576082 548.99
+84362 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Wangiwangi" 123.584634 -5.311247 157.62
+84376 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Long Island" 147.102271 -5.322838 416.04
+84424 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Eja" 121.833856 -5.138247 5.06
+84437 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 137.748637 -5.143006 19.59
+84439 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 137.588199 -5.122216 23.69
+84441 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Crown Island" 146.958566 -5.112344 13.62
+84449 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 137.726206 -5.094222 5.1
+84454 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 137.630695 -5.07069 1.3
+84455 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Kabaena" 121.941047 -5.26889 878.52
+84458 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 137.650954 -5.137717 193.44
+84482 "East Melanesian Islands" "PNG" "Papua New Guinea" "Solomon Islands" "Buka Island" 154.626695 -5.221738 606.96
+84484 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 137.534277 -4.994788 2.77
+84506 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 137.401449 -5.022693 121.23
+84507 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Bangko" 122.334328 -4.923414 3.01
+84540 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 137.066665 -4.875725 9.97
+84549 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 136.843252 -4.870184 73.1
+84564 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 136.780546 -4.809344 3.3
+84567 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Witamemea" 123.083571 -4.82322 40.88
+84568 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Lambom Island" 152.846491 -4.800726 4.28
+84581 "Papua New Guinea" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Bagabag Island" 146.228241 -4.793981 34.62
+84585 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Condong" 115.813894 -4.798333 28.8
+84586 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulo Kirukiru" 123.03798 -4.766729 2.86
+84626 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Lamassa Island" 152.766256 -4.696432 1.64
+84648 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 136.209221 -4.636892 3.46
+84651 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Muna" 122.517 -5.020541 2945.67
+84675 "Papua New Guinea" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Karkar Island" 145.973963 -4.64358 399.64
+84676 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 136.037333 -4.548797 19.21
+84679 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Tobea Besar" 122.715566 -4.543211 24.48
+84682 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Banda Besar" 129.918721 -4.549701 26.37
+84700 "East Melanesian Islands" "PNG" "Papua New Guinea" "Solomon Islands" "Sirot Island" 154.163298 -4.467291 1.31
+84702 "East Melanesian Islands" "PNG" "Papua New Guinea" "Solomon Islands" "Nissan Island" 154.211167 -4.512785 31.29
+84705 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Kasiui" 131.652243 -4.490209 30.74
+84708 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Watubela" 131.594017 -4.400491 4.38
+84712 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Waudu" 122.912823 -5.075519 4519
+84723 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Kabakon Island" 152.396852 -4.236848 1.11
+84727 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Mioko Island" 152.459057 -4.230143 1.28
+84733 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Ulu Island" 152.414619 -4.216093 7.73
+84751 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "New Britain" 150.615239 -5.474285 35412.39
+84757 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Duke of York Island" 152.458292 -4.171911 52.13
+84763 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Makada Island" 152.421005 -4.122124 3.6
+84769 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Watom Island" 152.072403 -4.11031 13.58
+84778 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Manawoka" 131.334163 -4.120714 51.81
+84796 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Ambitle Island" 153.620576 -4.079828 90.19
+84800 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Babase Island" 153.70639 -4.01852 24.55
+84809 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Panjang" 131.226458 -4.013869 20.72
+84811 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Wawonii" 123.096165 -4.114591 708.94
+84814 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Bungkutoko" 122.60989 -3.983777 1.8
+84825 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.850043 -3.968189 7.91
+84828 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Gorong" 131.412382 -4.011805 66.93
+84829 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.515794 -3.952786 3.41
+84832 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" NA 134.705894 -3.948543 11.23
+84834 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.484161 -3.942361 3.08
+84877 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.253677 -3.818152 1.61
+84878 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.229248 -3.822819 4.12
+84884 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.338119 -3.809992 2.77
+84888 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.248353 -3.802184 5.64
+84890 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.16912 -3.80131 4.7
+84895 "Papua New Guinea" "PNG" "Papua New Guinea" "Malay Archipelago" NA 144.217596 -3.792366 17.08
+84915 "Papua New Guinea" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Kadovar Island" 144.588104 -3.607428 1.73
+84927 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Tefa Island" 153.198035 -3.536396 2.24
+84938 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Lif Island" 153.181183 -3.50583 2.07
+84939 "Papua New Guinea" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Blupblup Island" 144.605924 -3.507838 5.49
+84941 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Saparua" 128.655342 -3.553404 161.64
+84943 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Ambon" 128.1474 -3.64725 778.69
+84964 "Papua New Guinea" "IDN" "Indonesia" "Malay Archipelago" "Ombah" 133.505611 -3.447858 2.1
+84967 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Malendok Island" 153.214359 -3.467744 34.15
+84969 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Anak Suwangi" 116.027025 -3.43793 6.69
+84989 "East Melanesian Islands" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Boang Island" 153.298592 -3.381881 31.24
+84990 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Burung" 116.035644 -3.379956 5.56
+84995 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Tampakan" 116.063308 -3.367592 6.38
+84997 "Papua New Guinea" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Koil Island" 144.207444 -3.35663 3.93
+85017 "Papua New Guinea" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Kairiru Island" 143.557063 -3.346757 53.44
+85054 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Damar" 113.383062 -3.276791 15.81
+85077 "Wallacea" "IDN" "Indonesia" "Malay Archipelago" "Pulau Babi" 128.166126 -3.22549 1.49
+85084 "Sundaland" "IDN" "Indonesia" "Malay Archipelago" "Pulau Laut" 116.169716 -3.647212 2090.86
+85096 "Papua New Guinea" "PNG" "Papua New Guinea" "Bismarck Archipelago" "Vokeo Island" 144.096516 -3.222263 34.13
+85098 "Wallacea" "IDN" "Indonesia" "Sulawesi" "Pulau Sulawesi" 121.113735 -2.012155 169020.98
+15217 "California Islands" "MEX" "Mexico" "Gulf of California Islands" "Isla Coronados" -111.2739 26.1199 7.58
+17256 "California Islands" "MEX" "Mexico" "Gulf of California Islands" "Isla Angel de la Guarda" -113.3629 29.29035 935.17
+17264 "California Islands" "MEX" "Mexico" "Gulf of California Islands" "Isla de la Vela" -113.5703 29.55663 2.51
