@@ -1,0 +1,57 @@
+"ArchipThreat" "Archip" "Threat" "Nb_sp_thr" "Perc_sp_thr" "PD" "FRic"
+"PNG_habitat" "Papua New Guinea" "habitat" 39 3.9 0.12419209338496 0.190054
+"PNG_direct" "Papua New Guinea" "direct" 38 3.8 0.111575162047512 0.120625
+"MIOI_habitat" "Madagascar and the Indian Ocean Islands" "habitat" 79 7.9 0.115952623631103 0.375779
+"MIOI_direct" "Madagascar and the Indian Ocean Islands" "direct" 72 7.2 0.101764159879882 0.271688
+"MIOI_mixed" "Madagascar and the Indian Ocean Islands" "mixed" 29 2.9 0.0841395829283013 0.166659
+"MGI_direct" "Mesoamerica and Galapagos Islands" "direct" 3 0.3 0.0338779446340321 NA
+"MGI_habitat" "Mesoamerica and Galapagos Islands" "habitat" 4 0.4 0.0422407967727648 NA
+"CrI_direct" "Caribbean Islands" "direct" 9 0.9 0.0359644632917817 0.014158
+"CrI_mixed" "Caribbean Islands" "mixed" 18 1.8 0.0545033956752516 0.083389
+"CrI_habitat" "Caribbean Islands" "habitat" 14 1.4 0.0441097990566016 0.010565
+"Ja_habitat" "Japan" "habitat" 9 0.9 0.0529587522659507 0.002011
+"GGI_habitat" "Gulf of Guinea Islands" "habitat" 5 0.5 0.0430893708307098 0.005782
+"GGI_direct" "Gulf of Guinea Islands" "direct" 5 0.5 0.0430893708307098 0.005782
+"Su_habitat" "Sundaland" "habitat" 57 5.7 0.144344849009276 0.316585
+"Su_direct" "Sundaland" "direct" 58 5.8 0.155443896205015 0.339514
+"IB_mixed" "Indo-Burma" "mixed" 7 0.7 0.0457317074147166 0.002469
+"Su_mixed" "Sundaland" "mixed" 20 2 0.0907324037712856 0.156131
+"Wa_habitat" "Wallacea" "habitat" 48 4.8 0.133515985518718 0.304266
+"Wa_direct" "Wallacea" "direct" 58 5.8 0.147496135036991 0.330486
+"Ja_direct" "Japan" "direct" 14 1.4 0.0659997450995102 0.004868
+"Ja_mixed" "Japan" "mixed" 10 1 0.0590517809000206 0.002849
+"Ph_habitat" "Philippines" "habitat" 27 2.7 0.0878745157208247 0.182191
+"Ph_direct" "Philippines" "direct" 27 2.7 0.0925925588711376 0.181741
+"MB_mixed" "Mediterranean Basin" "mixed" 6 0.6 0.0311523294455022 3e-06
+"MB_habitat" "Mediterranean Basin" "habitat" 2 0.2 0.0257988833527807 NA
+"SL_direct" "Sri Lanka" "direct" 11 1.1 0.0592622263104217 0.037947
+"SL_habitat" "Sri Lanka" "habitat" 14 1.4 0.0623675050508467 0.03951
+"IB_direct" "Indo-Burma" "direct" 7 0.7 0.0551823022569111 0.055426
+"IB_habitat" "Indo-Burma" "habitat" 8 0.8 0.0585187686909278 0.046288
+"GGI_mixed" "Gulf of Guinea Islands" "mixed" 1 0.1 0.0184607503092954 NA
+"BESSI_mixed" "Bering and East Siberian Sea Islands" "mixed" 1 0.1 0.0184607502985341 NA
+"BESSI_habitat" "Bering and East Siberian Sea Islands" "habitat" 1 0.1 0.0184607502985341 NA
+"Ta_direct" "Taiwan" "direct" 1 0.1 0.0184607506324121 NA
+"ClI_mixed" "California Islands" "mixed" 10 1 0.0316814789211308 2.1e-05
+"Ph_mixed" "Philippines" "mixed" 12 1.2 0.0509641865012803 0.008175
+"MGI_mixed" "Mesoamerica and Galapagos Islands" "mixed" 8 0.8 0.0464814325928075 0.012847
+"Wa_mixed" "Wallacea" "mixed" 19 1.9 0.0786703746344128 0.130136
+"Ta_habitat" "Taiwan" "habitat" 1 0.1 0.0184607506324121 NA
+"Ta_mixed" "Taiwan" "mixed" 1 0.1 0.0184607506324121 NA
+"EMI_habitat" "East Melanesian Islands" "habitat" 18 1.8 0.0522794698649108 0.027869
+"EMI_direct" "East Melanesian Islands" "direct" 19 1.9 0.0507690561299239 0.010102
+"EMI_mixed" "East Melanesian Islands" "mixed" 11 1.1 0.0387027527006291 1.9e-05
+"PNG_mixed" "Papua New Guinea" "mixed" 8 0.8 0.0572243359969188 0.088181
+"NC_direct" "New Caledonia" "direct" 3 0.3 0.0264351661891301 NA
+"NC_mixed" "New Caledonia" "mixed" 5 0.5 0.0319167939302731 NA
+"NC_habitat" "New Caledonia" "habitat" 5 0.5 0.0319167939302731 NA
+"PM_mixed" "Polynesia-Micronesia" "mixed" 8 0.8 0.0342459152675638 0.002552
+"PM_habitat" "Polynesia-Micronesia" "habitat" 7 0.7 0.0325840282336236 2.6e-05
+"PM_direct" "Polynesia-Micronesia" "direct" 6 0.6 0.027768846486773 NA
+"TNZI_direct" "Tasmania and New Zealand Islands" "direct" 3 0.3 0.0392263976848514 NA
+"TNZI_mixed" "Tasmania and New Zealand Islands" "mixed" 6 0.6 0.0464420418830846 0.006076
+"MB_direct" "Mediterranean Basin" "direct" 3 0.3 0.0218615174130394 NA
+"SL_mixed" "Sri Lanka" "mixed" 6 0.6 0.0376452331265656 0.001196
+"ClI_habitat" "California Islands" "habitat" 2 0.2 0.0198474156673418 NA
+"ClI_direct" "California Islands" "direct" 1 0.1 0.0184607507940796 NA
+"TNZI_habitat" "Tasmania and New Zealand Islands" "habitat" 1 0.1 0.0184607502358456 NA

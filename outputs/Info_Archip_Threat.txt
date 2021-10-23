@@ -1,0 +1,153 @@
+"ArchipThreat" "Archip" "Threat" "Nb_sp_thr" "Perc_sp_thr" "PD" "FRic"
+"PNG_Cu" "Papua New Guinea" "Cultivation" 34 3.4 0.118282606518345 0.17518
+"PNG_EPM" "Papua New Guinea" "Energy production & mining" 6 0.6 0.0682199437230411 0.025114
+"PNG_WI" "Papua New Guinea" "Wildlife exploitation" 38 3.8 0.111575162047512 0.120625
+"PNG_Ur" "Papua New Guinea" "Urbanization" 11 1.1 0.0766911523407252 0.036371
+"MIOI_Cu" "Madagascar and the Indian Ocean Islands" "Cultivation" 78 7.8 0.11377566015106 0.347675
+"MIOI_HM" "Madagascar and the Indian Ocean Islands" "Habitat modifications" 34 3.4 0.0781116040726613 0.171325
+"MIOI_WI" "Madagascar and the Indian Ocean Islands" "Wildlife exploitation" 72 7.2 0.101764159879882 0.271688
+"MIOI_EPM" "Madagascar and the Indian Ocean Islands" "Energy production & mining" 21 2.1 0.0426539979253483 0.029346
+"MIOI_Po" "Madagascar and the Indian Ocean Islands" "Pollution" 2 0.2 0.0274492697892943 NA
+"MIOI_Ur" "Madagascar and the Indian Ocean Islands" "Urbanization" 4 0.4 0.0276862017873787 NA
+"MGI_WI" "Mesoamerica and Galapagos Islands" "Wildlife exploitation" 3 0.3 0.0338779446340321 NA
+"MGI_Ur" "Mesoamerica and Galapagos Islands" "Urbanization" 4 0.4 0.0422407967727648 NA
+"CrI_WI" "Caribbean Islands" "Wildlife exploitation" 9 0.9 0.0359644632917817 0.014158
+"CrI_BI" "Caribbean Islands" "Biological invasions" 11 1.1 0.0412485481132864 0.059482
+"CrI_Cu" "Caribbean Islands" "Cultivation" 4 0.4 0.0282587229699958 NA
+"Ja_Cu" "Japan" "Cultivation" 7 0.7 0.0487336755242316 0.001254
+"GGI_Ur" "Gulf of Guinea Islands" "Urbanization" 2 0.2 0.0257988833419828 NA
+"GGI_WI" "Gulf of Guinea Islands" "Wildlife exploitation" 5 0.5 0.0430893708307098 0.005782
+"GGI_Cu" "Gulf of Guinea Islands" "Cultivation" 5 0.5 0.0430893708307098 0.005782
+"Su_HM" "Sundaland" "Habitat modifications" 15 1.5 0.0688205410588385 0.087557
+"Su_Cu" "Sundaland" "Cultivation" 53 5.3 0.137446652002483 0.303108
+"Su_WI" "Sundaland" "Wildlife exploitation" 58 5.8 0.155443896205015 0.339514
+"IB_GE" "Indo-Burma" "Geological events" 3 0.3 0.0206408276392156 NA
+"IB_CC" "Indo-Burma" "Climate change" 4 0.4 0.0279789604687887 NA
+"Su_CC" "Sundaland" "Climate change" 10 1 0.0602786946700911 0.020897
+"Wa_HM" "Wallacea" "Habitat modifications" 4 0.4 0.0476306058818452 NA
+"Wa_Ur" "Wallacea" "Urbanization" 18 1.8 0.0994542195424416 0.16088
+"Wa_Cu" "Wallacea" "Cultivation" 45 4.5 0.128897420744517 0.299847
+"Wa_WI" "Wallacea" "Wildlife exploitation" 58 5.8 0.147496135036991 0.330486
+"Su_EPM" "Sundaland" "Energy production & mining" 6 0.6 0.035926167113792 NA
+"Su_Ur" "Sundaland" "Urbanization" 22 2.2 0.0806864789085127 0.142132
+"Su_GE" "Sundaland" "Geological events" 2 0.2 0.0257988835437457 NA
+"Ja_WI" "Japan" "Wildlife exploitation" 14 1.4 0.0659997450995102 0.004868
+"Ja_TC" "Japan" "Transport corridors" 2 0.2 0.02663434165957 NA
+"Ja_BI" "Japan" "Biological invasions" 7 0.7 0.044863978645446 NA
+"Ph_Cu" "Philippines" "Cultivation" 26 2.6 0.0811615162382433 0.177693
+"Ph_WI" "Philippines" "Wildlife exploitation" 27 2.7 0.0925925588711376 0.181741
+"MB_BI" "Mediterranean Basin" "Biological invasions" 2 0.2 0.019328034778486 NA
+"MB_CC" "Mediterranean Basin" "Climate change" 1 0.1 0.0184607503032856 NA
+"MB_Ur" "Mediterranean Basin" "Urbanization" 1 0.1 0.0184607503093103 NA
+"SL_WI" "Sri Lanka" "Wildlife exploitation" 11 1.1 0.0592622263104217 0.037947
+"SL_Cu" "Sri Lanka" "Cultivation" 14 1.4 0.0623675050508467 0.03951
+"SL_HM" "Sri Lanka" "Habitat modifications" 7 0.7 0.0391986865925527 0.000763
+"Su_TC" "Sundaland" "Transport corridors" 5 0.5 0.0444234708828546 0.001029
+"Su_BI" "Sundaland" "Biological invasions" 8 0.8 0.05568544391621 0.028535
+"IB_WI" "Indo-Burma" "Wildlife exploitation" 7 0.7 0.0551823022569111 0.055426
+"IB_Cu" "Indo-Burma" "Cultivation" 6 0.6 0.0493861991282103 0.010648
+"IB_Ur" "Indo-Burma" "Urbanization" 6 0.6 0.049771682261869 0.010884
+"Ph_Ur" "Philippines" "Urbanization" 17 1.7 0.0656005875827691 0.029844
+"GGI_BI" "Gulf of Guinea Islands" "Biological invasions" 1 0.1 0.0184607503092954 NA
+"Wa_EPM" "Wallacea" "Energy production & mining" 16 1.6 0.0718251136831119 0.05729
+"BESSI_CC" "Bering and East Siberian Sea Islands" "Climate change" 1 0.1 0.0184607502985341 NA
+"BESSI_Cu" "Bering and East Siberian Sea Islands" "Cultivation" 1 0.1 0.0184607502985341 NA
+"BESSI_BI" "Bering and East Siberian Sea Islands" "Biological invasions" 1 0.1 0.0184607502985341 NA
+"Ja_Ur" "Japan" "Urbanization" 7 0.7 0.0438664251298196 0.000617
+"Ta_WI" "Taiwan" "Wildlife exploitation" 1 0.1 0.0184607506324121 NA
+"Ph_EPM" "Philippines" "Energy production & mining" 9 0.9 0.0527095167259342 0.011594
+"Ph_HM" "Philippines" "Habitat modifications" 2 0.2 0.0249591525238435 NA
+"ClI_BI" "California Islands" "Biological invasions" 10 1 0.0316814789211308 2.1e-05
+"Ph_TC" "Philippines" "Transport corridors" 1 0.1 0.0184607506349164 NA
+"MGI_BI" "Mesoamerica and Galapagos Islands" "Biological invasions" 8 0.8 0.0464814325928075 0.012847
+"MGI_CC" "Mesoamerica and Galapagos Islands" "Climate change" 2 0.2 0.0266343424760611 NA
+"MGI_TC" "Mesoamerica and Galapagos Islands" "Transport corridors" 1 0.1 0.0184607509978116 NA
+"MIOI_BI" "Madagascar and the Indian Ocean Islands" "Biological invasions" 17 1.7 0.0557496399409205 0.087019
+"Wa_TC" "Wallacea" "Transport corridors" 1 0.1 0.0184607509904493 NA
+"Su_HID" "Sundaland" "Human intrusions & disturbance" 4 0.4 0.0323887025690636 NA
+"Wa_HID" "Wallacea" "Human intrusions & disturbance" 3 0.3 0.0334749713340912 NA
+"Wa_BI" "Wallacea" "Biological invasions" 13 1.3 0.059237047304237 0.038731
+"Ph_BI" "Philippines" "Biological invasions" 5 0.5 0.0308605891283168 NA
+"SL_Ur" "Sri Lanka" "Urbanization" 5 0.5 0.0350186829913042 NA
+"Ja_HID" "Japan" "Human intrusions & disturbance" 5 0.5 0.0408221442459552 0.00034
+"Ta_Cu" "Taiwan" "Cultivation" 1 0.1 0.0184607506324121 NA
+"Ta_BI" "Taiwan" "Biological invasions" 1 0.1 0.0184607506324121 NA
+"Ta_Ur" "Taiwan" "Urbanization" 1 0.1 0.0184607506324121 NA
+"Ph_HID" "Philippines" "Human intrusions & disturbance" 6 0.6 0.0359134239475361 0.001199
+"EMI_Cu" "East Melanesian Islands" "Cultivation" 17 1.7 0.0498631479778231 0.023851
+"EMI_WI" "East Melanesian Islands" "Wildlife exploitation" 19 1.9 0.0507690561299239 0.010102
+"EMI_HID" "East Melanesian Islands" "Human intrusions & disturbance" 5 0.5 0.0343121306444756 NA
+"EMI_CC" "East Melanesian Islands" "Climate change" 8 0.8 0.0309108171504109 NA
+"EMI_BI" "East Melanesian Islands" "Biological invasions" 1 0.1 0.0184607506306752 NA
+"PNG_HID" "Papua New Guinea" "Human intrusions & disturbance" 2 0.2 0.0240188443999716 NA
+"MIOI_HID" "Madagascar and the Indian Ocean Islands" "Human intrusions & disturbance" 6 0.6 0.0378550882982268 0.000163
+"NC_WI" "New Caledonia" "Wildlife exploitation" 3 0.3 0.0264351661891301 NA
+"NC_HID" "New Caledonia" "Human intrusions & disturbance" 3 0.3 0.0277308802026213 NA
+"NC_EPM" "New Caledonia" "Energy production & mining" 2 0.2 0.0240188442969354 NA
+"NC_BI" "New Caledonia" "Biological invasions" 4 0.4 0.030147202104628 NA
+"EMI_EPM" "East Melanesian Islands" "Energy production & mining" 3 0.3 0.026435166290593 NA
+"PM_HID" "Polynesia-Micronesia" "Human intrusions & disturbance" 3 0.3 0.0288340260367759 NA
+"PM_EPM" "Polynesia-Micronesia" "Energy production & mining" 1 0.1 0.0184607506274913 NA
+"PM_WI" "Polynesia-Micronesia" "Wildlife exploitation" 6 0.6 0.027768846486773 NA
+"PNG_HM" "Papua New Guinea" "Habitat modifications" 6 0.6 0.0547066934750454 0.020065
+"MIOI_CC" "Madagascar and the Indian Ocean Islands" "Climate change" 12 1.2 0.034663299036999 0.000746
+"PNG_CC" "Papua New Guinea" "Climate change" 4 0.4 0.0377313916593523 NA
+"PM_BI" "Polynesia-Micronesia" "Biological invasions" 5 0.5 0.0268770611149387 NA
+"PM_CC" "Polynesia-Micronesia" "Climate change" 7 0.7 0.031829593380476 0.000811
+"MIOI_TC" "Madagascar and the Indian Ocean Islands" "Transport corridors" 2 0.2 0.0266343416474793 NA
+"Ph_CC" "Philippines" "Climate change" 1 0.1 0.0184607506324121 NA
+"Ph_GE" "Philippines" "Geological events" 2 0.2 0.0266343418047986 NA
+"Ta_CC" "Taiwan" "Climate change" 1 0.1 0.0184607506324121 NA
+"Ta_GE" "Taiwan" "Geological events" 1 0.1 0.0184607506324121 NA
+"Ja_CC" "Japan" "Climate change" 2 0.2 0.0189737914651648 NA
+"Ja_GE" "Japan" "Geological events" 1 0.1 0.0184607506324121 NA
+"NC_Cu" "New Caledonia" "Cultivation" 4 0.4 0.0295004720431853 NA
+"PM_GE" "Polynesia-Micronesia" "Geological events" 1 0.1 0.0184607506317148 NA
+"PM_Ur" "Polynesia-Micronesia" "Urbanization" 3 0.3 0.0196570803049556 NA
+"PM_Cu" "Polynesia-Micronesia" "Cultivation" 6 0.6 0.0301677063465359 NA
+"NC_CC" "New Caledonia" "Climate change" 2 0.2 0.024018844293971 NA
+"IB_HID" "Indo-Burma" "Human intrusions & disturbance" 4 0.4 0.036213497579197 NA
+"IB_BI" "Indo-Burma" "Biological invasions" 2 0.2 0.0266343419919949 NA
+"EMI_HM" "East Melanesian Islands" "Habitat modifications" 3 0.3 0.0248232825079741 NA
+"Wa_Po" "Wallacea" "Pollution" 4 0.4 0.0288706209756703 NA
+"TNZI_WI" "Tasmania and New Zealand Islands" "Wildlife exploitation" 3 0.3 0.0392263976848514 NA
+"TNZI_BI" "Tasmania and New Zealand Islands" "Biological invasions" 6 0.6 0.0464420418830846 0.006076
+"CrI_Ur" "Caribbean Islands" "Urbanization" 9 0.9 0.0421922977957387 NA
+"CrI_HID" "Caribbean Islands" "Human intrusions & disturbance" 5 0.5 0.0288936201670392 NA
+"CrI_EPM" "Caribbean Islands" "Energy production & mining" 2 0.2 0.0266343419901796 NA
+"CrI_CC" "Caribbean Islands" "Climate change" 9 0.9 0.0423201984516201 3e-04
+"CrI_GE" "Caribbean Islands" "Geological events" 2 0.2 0.0235432788578904 NA
+"PM_HM" "Polynesia-Micronesia" "Habitat modifications" 1 0.1 0.0184607508467503 NA
+"MB_HID" "Mediterranean Basin" "Human intrusions & disturbance" 3 0.3 0.021760729681452 NA
+"MB_Cu" "Mediterranean Basin" "Cultivation" 1 0.1 0.0184607508471664 NA
+"MB_WI" "Mediterranean Basin" "Wildlife exploitation" 3 0.3 0.0218615174130394 NA
+"MB_HM" "Mediterranean Basin" "Habitat modifications" 1 0.1 0.0184607508471664 NA
+"MB_Po" "Mediterranean Basin" "Pollution" 2 0.2 0.0196469336396576 NA
+"Ja_EPM" "Japan" "Energy production & mining" 1 0.1 0.0184607508477853 NA
+"PNG_BI" "Papua New Guinea" "Biological invasions" 3 0.3 0.0367704194905432 NA
+"TNZI_HID" "Tasmania and New Zealand Islands" "Human intrusions & disturbance" 1 0.1 0.0184607508488161 NA
+"NC_Ur" "New Caledonia" "Urbanization" 1 0.1 0.0184607508439485 NA
+"NC_HM" "New Caledonia" "Habitat modifications" 1 0.1 0.0184607508439485 NA
+"PNG_Po" "Papua New Guinea" "Pollution" 1 0.1 0.0184607508498746 NA
+"MGI_Cu" "Mesoamerica and Galapagos Islands" "Cultivation" 1 0.1 0.0184607508493884 NA
+"MGI_HM" "Mesoamerica and Galapagos Islands" "Habitat modifications" 1 0.1 0.0184607508493884 NA
+"PM_Po" "Polynesia-Micronesia" "Pollution" 1 0.1 0.0184607509603592 NA
+"SL_TC" "Sri Lanka" "Transport corridors" 3 0.3 0.032597371992991 NA
+"Wa_GE" "Wallacea" "Geological events" 2 0.2 0.0341438691699575 NA
+"SL_HID" "Sri Lanka" "Human intrusions & disturbance" 1 0.1 0.0184607504376277 NA
+"ClI_HID" "California Islands" "Human intrusions & disturbance" 3 0.3 0.0269458985823047 NA
+"ClI_Cu" "California Islands" "Cultivation" 1 0.1 0.0184607507917115 NA
+"Ja_HM" "Japan" "Habitat modifications" 1 0.1 0.0184607507903118 NA
+"ClI_EPM" "California Islands" "Energy production & mining" 1 0.1 0.0184607507940796 NA
+"ClI_Ur" "California Islands" "Urbanization" 1 0.1 0.0184607507940796 NA
+"ClI_WI" "California Islands" "Wildlife exploitation" 1 0.1 0.0184607507940796 NA
+"CrI_HM" "Caribbean Islands" "Habitat modifications" 3 0.3 0.0186613251759665 NA
+"ClI_CC" "California Islands" "Climate change" 1 0.1 0.018460750909133 NA
+"MGI_GE" "Mesoamerica and Galapagos Islands" "Geological events" 1 0.1 0.0184607509095906 NA
+"SL_BI" "Sri Lanka" "Biological invasions" 3 0.3 0.0222550134800974 NA
+"EMI_Ur" "East Melanesian Islands" "Urbanization" 1 0.1 0.0184607505995148 NA
+"PNG_TC" "Papua New Guinea" "Transport corridors" 1 0.1 0.0184607502368708 NA
+"SL_Po" "Sri Lanka" "Pollution" 1 0.1 0.0184607506106621 NA
+"TNZI_Cu" "Tasmania and New Zealand Islands" "Cultivation" 1 0.1 0.0184607502358456 NA
+"TNZI_TC" "Tasmania and New Zealand Islands" "Transport corridors" 1 0.1 0.0184607502356853 NA
+"Su_Po" "Sundaland" "Pollution" 1 0.1 0.0184607504157473 NA
