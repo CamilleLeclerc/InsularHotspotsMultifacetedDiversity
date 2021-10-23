@@ -1,0 +1,37 @@
+# RStudio files
+.Rproj.user
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# Large files
+data/GADM_islands_17883data.dbf
+data/GADM_islands_17883data.prj
+data/GADM_islands_17883data.sbn
+data/GADM_islands_17883data.sbx
+data/GADM_islands_17883data.shp
+data/GADM_islands_17883data.shx
+
+data/mammals_phylogeny.nex
+
+data/ne_10m_graticules_30.cpg
+data/ne_10m_graticules_30.dbf
+data/ne_10m_graticules_30.prj
+data/ne_10m_graticules_30.shp
+data/ne_10m_graticules_30.shx
+
+data/ne_10m_land.cpg
+data/ne_10m_land.dbf
+data/ne_10m_land.prj
+data/ne_10m_land.shp
+data/ne_10m_land.shx
+
+data/ne_10m_wgs84_bounding_box.cpg
+data/ne_10m_wgs84_bounding_box.dbf
+data/ne_10m_wgs84_bounding_box.prj
+data/ne_10m_wgs84_bounding_box.shp
+data/ne_10m_wgs84_bounding_box.shx
