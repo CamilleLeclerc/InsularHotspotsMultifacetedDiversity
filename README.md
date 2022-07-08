@@ -1,5 +1,5 @@
 # Insular hotspots and multifaceted diversity
-📦 R code and data associated with the paper of [Leclerc *et al.* (accepted)](https://doi.org/10.1111/ddi.13441).
+📦 R code and data associated with the paper of [Leclerc *et al.* (early view)](https://doi.org/10.1111/ddi.13441).
 
 ---
 # Goal
